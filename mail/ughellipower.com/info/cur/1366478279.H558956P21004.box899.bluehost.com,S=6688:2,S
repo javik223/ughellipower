@@ -1,0 +1,133 @@
+Return-path: <confirm+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@facebookmail.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Sat, 20 Apr 2013 11:17:59 -0600
+Received: from [69.171.232.147] (port=51919 helo=mx-out.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.80)
+	(envelope-from <confirm+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@facebookmail.com>)
+	id 1UTbQF-0005Qy-15
+	for info@ughellipower.com; Sat, 20 Apr 2013 11:17:59 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1366478277;
+	bh=XPB7qwEr9wGr19KEdxgZpp/oeoosfCOnmcbDFT5oSEM=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=dZH9IfmTA4VJ77LApB8Y/bF1Y77LWROe4jf/VnVzPTsrZ/dc+qBhbteqFK2ZqHVY+
+	 4Rd8YDqMjfZrmTygI71JnR/FFbWuH+yTTLcM6WNwh33ywS0GsHGjbd6OrYsptlEZwy
+	 Eg8AHOGokaOjXKPWNLpEOONAPVvyGANTnHijKIMk=
+Received: from [10.75.52.35] ([10.75.52.35:57946])
+	by smout016.snc7.facebook.com (envelope-from <confirm+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@facebookmail.com>)
+	(ecelerity 3.5.1.37927 r(/root/Momo-dev:tip)) with ECSTREAM
+	id D8/8F-30229-5CDC2715; Sat, 20 Apr 2013 10:17:57 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Sat, 20 Apr 2013 10:17:57 -0700
+To: info@ughellipower.com
+From: "Facebook" <confirm+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@facebookmail.com>
+Subject: Just one more step to get started on Facebook
+Message-ID: <07505beb5b6bb0a5976d22093ddb6853@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+X-Facebook-Notify: email_confirm; mailid=
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_07505beb5b6bb0a5976d22093ddb6853"
+
+
+--b1_07505beb5b6bb0a5976d22093ddb6853
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ughelli,
+
+To complete the sign-up process, please follow this link:
+
+http://www.facebook.com/confirmemail.php?e=3Dinfo%40ughellipower.com&c=3D5=
+51003
+
+You may be asked to enter this confirmation code: 551003
+
+Welcome to Facebook!
+
+The Facebook Team
+
+Didn&#039;t sign up for Facebook? Please let us know:
+http://www.facebook.com/confirmemail.php?e=3Dinfo%40ughellipower.com&amp;c=
+=3D551003&amp;report=3D1
+
+
+
+--b1_07505beb5b6bb0a5976d22093ddb6853
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><title>Facebook</title></head><body style=3D"margin: 0; =
+padding: 0;" dir=3D"ltr"><table width=3D"98%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"40"><tr><td bgcolor=3D"#f7f7f7" =
+width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"620"><tr><td style=3D"background:#=
+3b5998;color:#FFFFFF;font-weight:bold;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px =
+8px; font-size: 16px; letter-spacing: -0.03em; text-align: =
+left;">facebook</td><td style=3D"background:#3b5998;color:#FFFFFF;font-wei=
+ght:bold;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px =
+8px;font-size: 11px; text-align: right;"></td></tr><tr><td colspan=3D"2" =
+style=3D"background-color: #FFFFFF; border-bottom: 1px solid #3b5998; =
+border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; padding: =
+15px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;" =
+valign=3D"top"><table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td width=3D"470" style=3D"font-size:12px;" =
+valign=3D"top" align=3D"left"><div style=3D"margin-bottom:15px; =
+font-size:12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;">Hi Ughelli,</div><div =
+style=3D"margin-bottom:15px;"></div><div =
+style=3D"margin-bottom:15px;"><div><div style=3D"font-weight: bold; =
+margin-bottom: 10px;">To complete the sign-up process, please follow this =
+link:</div><div><table width=3D"100%" cellspacing=3D"0" =
+cellpadding=3D"0"><tr><td style=3D"width:40px;"><img style=3D"width:30px; =
+height:30px;" =
+src=3D"http://static.ak.fbcdn.net/rsrc.php/v2/yH/r/zaApaQnq3Cp.gif" =
+/></td><td><a href=3D"http://www.facebook.com/confirmemail.php?e=3Dinfo%40=
+ughellipower.com&amp;c=3D551003">http://www.facebook.com/confirmemail.php?=
+e=3Dinfo%40ughellipower.com&amp;c=3D551003</a></td></tr></table></div><div =
+style=3D"margin-top: 10px;">You may be asked to enter this confirmation =
+code: 551003</div></div></div><div style=3D"margin-bottom:15px;">Welcome =
+to Facebook!</div><div style=3D"margin-bottom:15px; =
+font-size:12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;margin: 0;">The Facebook =
+Team</div></td><td valign=3D"top" width=3D"150" style=3D"padding-left: =
+15px;" align=3D"left"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px;background=
+-color:#fff9d7;border-left:1px solid #e2c822;border-right:1px solid =
+#e2c822;border-top:1px solid #e2c822;border-bottom:1px solid =
+#e2c822;"><div style=3D"margin-bottom: 15px; font-size: 12px;">Get =
+started:</div><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #3b6e22 #3b6e22 =
+#2c5115;background-color: #69a74e;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #95bf82;"><a =
+href=3D"http://www.facebook.com/confirmemail.php?e=3Dinfo%40ughellipower.c=
+om&amp;c=3D551003" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #fff;font-size: =
+13px;">Complete Sign-up</span></a></td></tr></table></td></tr></table></td=
+></tr></table></td></tr></table></td></tr><tr><td colspan=3D"2" =
+style=3D"color:#999999;padding:10px;font-size:12px; font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;">Didn&#039;t sign up for =
+Facebook? <a href=3D"http://www.facebook.com/confirmemail.php?e=3Dinfo%40u=
+ghellipower.com&amp;c=3D551003&amp;report=3D1" =
+style=3D"color:#3b5998;text-decoration:none;">Please let us know.</a> =
+</td></tr></table></td></tr></table></body></html><span style=3D""><img =
+src=3D"http://www.facebook.com/email_open_log_pic.php?c=3D551003&amp;t=3D2=
+1&amp;k=3Df_s_f9j6" style=3D"border:0;width:1px;height:1px;" /></span>
+
+
+
+--b1_07505beb5b6bb0a5976d22093ddb6853--
+

@@ -1,0 +1,53 @@
+Return-path: <>
+Envelope-to: info@ughellipower.com
+Delivery-date: Mon, 19 Aug 2013 09:12:12 -0600
+Received: from [67.20.77.155] (port=44659 helo=outbound-ss-1231.hostmonster.com)
+	by box899.bluehost.com with smtp (Exim 4.80)
+	id 1VBR7s-0002a4-Bk
+	for info@ughellipower.com; Mon, 19 Aug 2013 09:12:12 -0600
+Received: (qmail 13149 invoked for bounce); 19 Aug 2013 15:12:06 -0000
+Date: 19 Aug 2013 15:12:06 -0000
+From: MAILER-DAEMON@soproxy5-pub.unifiedlayer.com
+To: info@ughellipower.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="1376925110soproxy5-pub.unifiedlayer.com5295083"
+Subject: failure notice
+
+--1376925110soproxy5-pub.unifiedlayer.com5295083
+
+Hi. This is the qmail-send program at soproxy5-pub.unifiedlayer.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<ssaeac@hotmail.com>:
+65.55.92.168 does not like recipient.
+Remote host said: 550 Requested action not taken: mailbox unavailable
+Giving up on 65.55.92.168.
+
+--- Enclosed are the original headers of the message.
+
+--1376925110soproxy5-pub.unifiedlayer.com5295083
+Content-Type: message/rfc822
+
+Return-Path: <info@ughellipower.com>
+Received: (qmail 11822 invoked by uid 0); 19 Aug 2013 15:11:50 -0000
+Received: from unknown (HELO box899.bluehost.com) (69.195.124.99)
+  by soproxy5.unifiedlayer.com with SMTP; 19 Aug 2013 15:11:49 -0000
+Received: from [196.46.246.49] (port=23554 helo=[10.0.0.131])
+	by box899.bluehost.com with esmtpa (Exim 4.80)
+	(envelope-from <info@ughellipower.com>)
+	id 1VBR3U-0003pZ-FJ; Mon, 19 Aug 2013 09:11:49 -0600
+Date: Mon, 19 Aug 2013 16:06:39 +0100
+Subject: LIST OF UGHELLI POWER PLC STAFF YET TO RECEIVE THEIR SEVERANCE
+ BENEFITS. 
+Message-ID: <kilq4cljl77ywafo5s69x7jw.1376924773218@email.android.com>
+From: Efficiency Office <info@ughellipower.com>
+To: ssaeacnational@yahoo.com
+Cc: ssaeac@hotmail.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="--_com.android.email_53249488011330"
+X-Identified-User: {3137:box899.bluehost.com:ughellip:ughellipower.com} {sentby:smtp auth 196.46.246.49 authed with info@ughellipower.com}
+
+(Body supressed)
+
+--1376925110soproxy5-pub.unifiedlayer.com5295083--

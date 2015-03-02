@@ -1,0 +1,99 @@
+Return-path: <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Fri, 23 Jan 2015 17:43:46 -0700
+Received: from [69.171.244.38] (port=6880 helo=smtpin.mx.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.82)
+	(envelope-from <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>)
+	id 1YEopF-0004mb-Sq
+	for info@ughellipower.com; Fri, 23 Jan 2015 17:43:45 -0700
+DKIM-Signature: v=1; a=rsa-sha256; d=fwd.facebook.com; s=s1024-2014-q3; c=relaxed/simple;
+	q=dns/txt; i=@fwd.facebook.com; t=1422060222;
+	h=From:Subject:X-:Date:To:MIME-Version:Content-Type:Authentication-Results;
+	bh=VBf1w5av1cvO5DiKiLBsr+CbpBWak4lIEuMphjJZHQM=;
+	b=gp6oKqanRJHBG2GLBNFgdHEfs3vGNnV3Gry8zXXV9nsHZ03mkhkIrwuX5pUug6N7
+	91H7oPeUAuwh2KGpBpQc52hSMgiIPXrMm+ZedpMZr87Bxcajm7idEpcAVAYNjaVr
+	9MWBRzzrl6Wvsl4L41URe2wJAD/E5/vCJE4L8ASVimQ=;
+X-Original-To: ughelli.powerplc@facebook.com
+Authentication-Results: smtpin.mx.facebook.com; spf=pass smtp.mailfrom=yahoo.com
+Received-SPF: pass (smtpin.mx.facebook.com: domain yahoo.com designates 216.109.114.67 as permitted sender)
+Authentication-Results: smtpin.mx.facebook.com; dkim=pass header.d=yahoo.com
+Received: from [216.109.114.67] ([216.109.114.67:42818] helo=nm50.bullet.mail.bf1.yahoo.com)
+	by 10.223.77.65 (envelope-from <tagged2love2@yahoo.com>)
+	(ecelerity 2.2.3.50 r(45166/45167)) with ESMTPS (cipher=AES128-SHA) 
+	id D4/78-43515-CBAE2C45; Fri, 23 Jan 2015 16:43:42 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1422060216; bh=VBf1w5av1cvO5DiKiLBsr+CbpBWak4lIEuMphjJZHQM=; h=Date:From:Reply-To:Subject:From:Subject; b=j0lRb6CBsYjqB+esfeaksFJbIcSlYmNz6P3IZAmPi+4mH/XcHcKDSY6butoOvLYKm9dW9kFnVR6rhUJN3udiY/XlQHuCHdcztygIqnZlOGXAmN4XuFSmS2ACyYu8VwIzhoc8juiFYnqs1EIkmoqbCdT7vPl2LkdO4pfXKSrLkJ1JurTyv77LRcRRPKrJdx801B9B37VwyGqHzGP3Bvm16tB7dfVt3bwDjSPZ0rv5fbit984+EMh4Im7BJVszLL9okwEKtvXplfKOfvP20+xnGBh+i0mmFeiZ7m3Ae74gmMMirL9TAjDFMfqWOyy2i6FWFJuhSD5jQobWsfsJNoF0uw==
+Received: from [98.139.215.141] by nm50.bullet.mail.bf1.yahoo.com with NNFMP; 24 Jan 2015 00:43:36 -0000
+Received: from [98.139.212.209] by tm12.bullet.mail.bf1.yahoo.com with NNFMP; 24 Jan 2015 00:43:36 -0000
+Received: from [127.0.0.1] by omp1018.mail.bf1.yahoo.com with NNFMP; 24 Jan 2015 00:43:36 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 296977.19173.bm@omp1018.mail.bf1.yahoo.com
+X-YMail-OSG: AcDkihsVM1mDc3.0920ewow3GpYyaUF6wNBTi1gTkvLlZ0vVAW1EIZZhs_e_r6f
+ dlVwxdo9SJdjAFVpAs..OmebQwHkkpmFSyW6ZcQeKN0ozuk64FDGjp0QjMiwXSIXVzAIpKkpl5HZ
+ xX6ekomP7993LAE1GaLL6myGWIGpxqf0sQwQCvmwhXitF7AZLpCgn16xiPKtC_GgUDia4Gw0oGM8
+ 2856pS3UVLQCwWrn.Dz7ku0Ce2aTggo.UagYYA0RScbUJ3za4WgB4Mgocv9EgbvMFkAq8bb86o_w
+ bAFCpTtGRTOgOiXAt_iNhRBxlhw9EM5OhTQ4DfPAleFx29DSG5mFhYRkFjUULEj5Fw7BBBYPhzXD
+ Tt_EZucIyYzH.WasR6SLHJ_6YjbfTeOVcovboHK71Yg9z9.uIbepqzlsakFuoUGUAFCu0LwZpxyt
+ zRGKFCO9aYYOfoX4Xna3WwsQvS8ZPktYFjRIaejTaDrw5dlINHLIpoi1IOIMBBWMSl7g-
+Received: by 66.196.80.126; Sat, 24 Jan 2015 00:43:35 +0000 
+Date: Sat, 24 Jan 2015 00:43:35 +0000 (UTC)
+From: Asma Rahmo <asma_rahmo@hotmail.com>
+Reply-To: Asma Rahmo <asma_rahmo@hotmail.com>
+Message-ID: <589145614.774070.1422060215283.JavaMail.yahoo@mail.yahoo.com>
+Subject: Hi, dear am Miss Asmal by name
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_774069_2010896998.1422060215280"
+Content-Length: 3364
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+------=_Part_774069_2010896998.1422060215280
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hi, dear am Miss Asmal by name
+How are you today,beloved i was moved to chat with you I saw your profile o=
+n facebook and i want to be your friend also like to know you more, and If =
+you are comfortable to be my friend,please feel free to write me through my=
+ mail address (asma_rahmo@hotmail.com) i have important issue to discuss wi=
+th you, write back through your personal mail address=C2=A0
+I have a proposal that I would like to discuss with you,and for easy commun=
+ication please feel free to write me through my mail address so that we can=
+ talk private. Thanks, I am waiting for your reply! Miss Asmal
+asma_rahmo@hotmail.com
+------=_Part_774069_2010896998.1422060215280
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, =
+Lucida Grande, sans-serif;font-size:16px"><div id=3D"yui_3_16_0_1_142205822=
+1456_295388"><span></span></div><div></div><div id=3D"yui_3_16_0_1_14220582=
+21456_295381">&nbsp;</div><div class=3D"signature" id=3D"yui_3_16_0_1_14220=
+58221456_295384"><div id=3D"yui_3_16_0_1_1422058221456_295383"><span style=
+=3D"font-family:HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neu=
+e', Helvetica, Arial, 'Lucida Grande', sans-serif;" id=3D"yui_3_16_0_1_1422=
+058221456_295382">Hi, dear am Miss Asmal by name</span></div><div id=3D"yui=
+_3_16_0_1_1422058221456_295385"><span style=3D"font-family:HelveticaNeue-Li=
+ght, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Gr=
+ande', sans-serif;"><br></span></div><div id=3D"yui_3_16_0_1_1422058221456_=
+295387"><span style=3D"font-family:HelveticaNeue-Light, 'Helvetica Neue Lig=
+ht', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;" id=
+=3D"yui_3_16_0_1_1422058221456_295386">How are you today,beloved i was move=
+d to chat with you I saw your profile on facebook and i want to be your fri=
+end also like to know you more, and If you are comfortable to be my friend,=
+please feel free to write me through my mail address (asma_rahmo@hotmail.co=
+m) i have important issue to discuss with you, write back through your pers=
+onal mail address&nbsp;</span></div><div><span style=3D"font-family:Helveti=
+caNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, '=
+Lucida Grande', sans-serif;"><br></span></div><div><span style=3D"font-fami=
+ly:HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica=
+, Arial, 'Lucida Grande', sans-serif;">I have a proposal that I would like =
+to discuss with you,and for easy communication please feel free to write me=
+ through my mail address so that we can talk private. Thanks, I am waiting =
+for your reply! Miss Asmal</span></div><div><span style=3D"font-family:Helv=
+eticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial=
+, 'Lucida Grande', sans-serif;"><br></span></div><div><span style=3D"font-f=
+amily:HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvet=
+ica, Arial, 'Lucida Grande', sans-serif;">asma_rahmo@hotmail.com</span></di=
+v></div></div></body></html>
+------=_Part_774069_2010896998.1422060215280--

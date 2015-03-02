@@ -1,0 +1,184 @@
+Return-path: <notification+zj4y2sf2z426@facebookmail.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Tue, 23 Apr 2013 20:02:19 -0600
+Received: from [69.171.232.163] (port=37515 helo=mx-out.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.80)
+	(envelope-from <notification+zj4y2sf2z426@facebookmail.com>)
+	id 1UUp2J-0001VU-MC
+	for info@ughellipower.com; Tue, 23 Apr 2013 20:02:19 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1366768939;
+	bh=e3rRqvl4jaU9Ki+yxATSefpkbcByGhi78lhbrh+dVz4=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=X0c2iNUwiwyZ6LtAUFgQbbabMZS5A0yKh0seNB18VXjNyIvXWVQFSH43SH9KLT0+Q
+	 CuyQn7aSAgD6JtygzwiwABu1V6LKmJ20kF3dHizWbVEtKt5ch8JwHojGmh+fH1uACi
+	 xjkXEkSeacdSd03Uc0CXaFQLj0zGwp6bFp/Sl8hY=
+Received: from [10.178.117.51] ([10.178.117.51:37418])
+	by smout050.snc7.facebook.com (envelope-from <notification+zj4y2sf2z426@facebookmail.com>)
+	(ecelerity 3.5.1.37927 r(/root/Momo-dev:tip)) with ECSTREAM
+	id 65/B2-09514-B2D37715; Tue, 23 Apr 2013 19:02:19 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Tue, 23 Apr 2013 19:02:19 -0700
+To: Ughelli Power Plc <info@ughellipower.com>
+From: "Facebook" <notification+zj4y2sf2z426@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: Reminder: Confirm your Facebook account
+Message-ID: <6fa2227e94a61d05d950ae5f7d2f258b@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4y2sf2z426@facebookmail.com
+X-Facebook-Camp: reg_unconfirmed_email
+X-Facebook-Notify: reg_unconfirmed_email; mailid=7e13a59G5af466cc43d0G0G58
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_6fa2227e94a61d05d950ae5f7d2f258b"
+
+
+--b1_6fa2227e94a61d05d950ae5f7d2f258b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Confirm Account
+http://www.facebook.com/n/?confirmemail.php&e=3Dinfo%40ughellipower.com&c=
+=3D551003&mid=3D7e13a59G5af466cc43d0G0G58&bcode=3D1.1366768939.Abmu773CFrb=
+kD8kk&code=3D551003&n_m=3Dinfo%40ughellipower.com&lloc=3D1st_cta
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Ughelli,
+
+Please confirm your account so you can keep using Facebook. Just follow =
+this link: http://facebook.com/n/?confirmemail.php
+
+You may be asked to enter this confirmation code:
+
+=20
+
+551003
+
+Thanks,
+The Facebook Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to info@ughellipower.com. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+http://www.facebook.com/o.php?k=3DAS0vyl6-iJ4uYIkq&u=3D100005743182800&mid=
+=3D7e13a59G5af466cc43d0G0G58
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_6fa2227e94a61d05d950ae5f7d2f258b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-size:12px;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"http://www.facebook.com=
+/n/?confirmemail.php&amp;e=3Dinfo%40ughellipower.com&amp;c=3D551003&amp;mi=
+d=3D7e13a59G5af466cc43d0G0G58&amp;bcode=3D1.1366768939.Abmu773CFrbkD8kk&am=
+p;code=3D551003&amp;n_m=3Dinfo%40ughellipower.com&amp;lloc=3Dlogo"><span =
+style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#0=
+39;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;width:620px;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:=
+none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"top" style=3D"font-size:11px;font-family:LucidaGrande,tahoma,ver=
+dana,arial,sans-serif;padding-right:15px;text-align:left;"><a =
+href=3D"http://www.facebook.com/n/?confirmemail.php&amp;e=3Dinfo%40ughelli=
+power.com&amp;c=3D551003&amp;mid=3D7e13a59G5af466cc43d0G0G58&amp;bcode=3D1=
+.1366768939.Abmu773CFrbkD8kk&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipow=
+er.com&amp;lloc=3Dpic" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"http://profile.ak.fbcdn.net/hprofile-ak-prn1/368503_100005743182800=
+_314064967_q.jpg" style=3D"border:0;" /></a></td><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;width:100%;text-align:left;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:5px;"><span style=3D"color:#333333;">Hi =
+Ughelli,</span></td></tr><tr><td style=3D"font-size:11px;font-family:Lucid=
+aGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px=
+;"><span style=3D"color:#333333;">Please confirm your account so you can =
+keep using Facebook. Just follow this link: <a href=3D"http://www.facebook=
+.com/n/?confirmemail.php&amp;e=3Dinfo%40ughellipower.com&amp;c=3D551003&am=
+p;mid=3D7e13a59G5af466cc43d0G0G58&amp;bcode=3D1.1366768939.Abmu773CFrbkD8k=
+k&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;">http://facebook.com/n/?confi=
+rmemail.php</a></span></td></tr><tr><td style=3D"font-size:11px;font-famil=
+y:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;"><span =
+style=3D"color:#333333;">You may be asked to enter this confirmation code: =
+551003</span></td></tr></table></td></tr></table></td></tr></table></td></=
+tr><tr><td style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana=
+,arial,sans-serif;padding:0px;width:620px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;" =
+border=3D"0"><tr><td style=3D"font-size:11px;font-family:LucidaGrande,taho=
+ma,verdana,arial,sans-serif;padding:7px 20px;background-color:#f2f2f2;bord=
+er-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px =
+solid #ccc;"><table cellspacing=3D"0" cellpadding=3D"0" style=3D""><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:65px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #29447E #29447E =
+#1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"http://www.facebook.com/n/?confirmemail.php&amp;e=3Dinfo%40ughelli=
+power.com&amp;c=3D551003&amp;mid=3D7e13a59G5af466cc43d0G0G58&amp;bcode=3D1=
+.1366768939.Abmu773CFrbkD8kk&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipow=
+er.com&amp;lloc=3D1st_cta" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #fff;font-size: =
+13px;">Confirm Account</span></a></td></tr></table></td></tr></table></td>=
+</tr></table></td></tr></table></td></tr></table></td></tr></table><table =
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:30px 20px;background-color:#fff;border-left:none;border-rig=
+ht:none;border-top:none;border-bottom:none;color:#999999;fot-size:11px;">D=
+idn&#039;t sign up for Facebook? <a href=3D"http://www.facebook.com/n/?r.p=
+hp&amp;pre_conf_sig=3DAeZKRPdrWHLZKNL1&amp;pre_conf_code=3D1614876751&amp;=
+pre_conf_src=3D1&amp;email=3Dinfo%40ughellipower.com&amp;mid=3D7e13a59G5af=
+466cc43d0G0G58&amp;bcode=3D1.1366768939.Abmu773CFrbkD8kk&amp;code=3D551003=
+&amp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;">Create a new =
+account</a>.</td></tr></table><span style=3D"width:620px;"><img =
+src=3D"http://www.facebook.com/email_open_log_pic.php?c=3D551003&amp;mid=
+=3D7e13a59G5af466cc43d0G0G58" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_6fa2227e94a61d05d950ae5f7d2f258b--
+

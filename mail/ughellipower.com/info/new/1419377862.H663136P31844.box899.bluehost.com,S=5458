@@ -1,0 +1,75 @@
+Return-path: <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Tue, 23 Dec 2014 16:37:42 -0700
+Received: from [66.220.157.70] (port=54314 helo=smtpin.mx.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.82)
+	(envelope-from <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>)
+	id 1Y3Z1K-0008F9-EF
+	for info@ughellipower.com; Tue, 23 Dec 2014 16:37:42 -0700
+DKIM-Signature: v=1; a=rsa-sha256; d=fwd.facebook.com; s=s1024-2014-q3; c=relaxed/simple;
+	q=dns/txt; i=@fwd.facebook.com; t=1419377859;
+	h=From:Subject:X-:Date:To:MIME-Version:Content-Type:Authentication-Results;
+	bh=VHuPEsee0i5l3olu29ePemXnajeeUuiP5ZsN7C29Mks=;
+	b=jloJkeKL0CFyTWqWOHe8gD6tGd6WdU/1ZP9WrqiiL3WjQkq8rdKIlkkZ3B4cNAW5
+	/Fb/2DWUCKnFl9vo7Wj5DJ05nROQDV1YfZEpGeGkilYp4WhMcLRHC3C369EZQ0Sf
+	ztePe/QaPgyFvLtAjj2usu1PgCY7xRib2aFYDXABWQs=;
+X-Original-To: ughelli.powerplc@facebook.com
+Authentication-Results: smtpin.mx.facebook.com; spf=neutral smtp.mailfrom=yahoo.co.uk
+Received-SPF: neutral (smtpin.mx.facebook.com: 67.195.87.220 is neither permitted nor denied by domain of yahoo.co.uk)
+Authentication-Results: smtpin.mx.facebook.com; dkim=pass header.d=yahoo.com
+Received: from [67.195.87.220] ([67.195.87.220:59780] helo=nm43-vm5.bullet.mail.gq1.yahoo.com)
+	by 10.223.77.79 (envelope-from <mary.williams102@yahoo.co.uk>)
+	(ecelerity 2.2.3.50 r(45166/45167)) with ESMTPS (cipher=AES128-SHA) 
+	id D7/D8-63242-2CCF9945; Tue, 23 Dec 2014 15:37:39 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1419377753; bh=VHuPEsee0i5l3olu29ePemXnajeeUuiP5ZsN7C29Mks=; h=Date:From:Reply-To:Subject:From:Subject; b=EXFbRW61InLnSz+lCKwOd3P3Zg2rfkPU/B/FbmKAEnbkER7ojhqrayzkeR/AfXWk3WqFFfneaCySh2yODR/95u+TOJgRnosB26u7wfLAayPFw5lS4NFsK8armc1oIN2SHBphdL6Z3unvwHwgoMLiUOpXfChygSBC87bZ03IxTTnLHUN1b9nKNYjLxOYP6p78XO6p3TZt5RLwweJF1h4NX+PbipVMCFW7H4iB8Ije0kKmpDopPQd1M3IxZj+uwTOLMNQ4OQTFWmsKuGjrKyxijE0cL7k6VSAINAVmUQ8IefZBjoFHX9au9FMNekZLztQ6lOggzHxT54aEhKXFGpXTkA==
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s2048; d=yahoo.com;
+	b=V+465h9pXI2eI8qAbErtTynLFPKzijALQ9X3XXQ0+0npXCWk6eV3RXZYAOsoMeWd5Q9gA312fpXCdpInciLXQzsbLfLONhJS6cEDLA/aS7XkZ/NTPdTAertY8MFTHtfOQYkc33HEgOw30bOSny+g6XM9eMhmP7rD/BelGFLFWNKG5HHUBpcLnY3kkEDrztfaTqylTRVrGQGyYeJJOL0b1WHB8Ob3OrgN1kqJqAkLpubRkL0oe7KpbdA/SWUHzApSfAgF5p1wlHKb87Az+32bZP2FVmbuSGiNNaWHJ0yfgwDs8UjwSBwfMcCfo/AJvtKxuX0gvqMZpLMocnHXgX8p3g==;
+Received: from [127.0.0.1] by nm43.bullet.mail.gq1.yahoo.com with NNFMP; 23 Dec 2014 23:35:53 -0000
+Received: from [98.137.12.175] by nm43.bullet.mail.gq1.yahoo.com with NNFMP; 23 Dec 2014 23:33:11 -0000
+Received: from [212.82.98.124] by tm14.bullet.mail.gq1.yahoo.com with NNFMP; 23 Dec 2014 23:33:11 -0000
+Received: from [212.82.98.92] by tm17.bullet.mail.ir2.yahoo.com with NNFMP; 23 Dec 2014 23:33:10 -0000
+Received: from [127.0.0.1] by omp1029.mail.ir2.yahoo.com with NNFMP; 23 Dec 2014 23:33:10 -0000
+X-Yahoo-Newman-Property: ymail-4
+X-Yahoo-Newman-Id: 845286.20723.bm@omp1029.mail.ir2.yahoo.com
+X-YMail-OSG: i6Bk8qIVM1lZRIYlet7Htxv688go8dQXte2wyq6K90h2uwRwFlsRkFarQJoeFD9
+ 0hqFfkZiBsUL4iEQpkoJj9DiqHI9a7SRdD0Qm6ZWd4uLtWqba7SI6ypEUCy4IwGP2zvpHnvoU_F5
+ 08U9UBHDb4STtmtVW4W0B9xjgoMXosWSz4W_c8pis0m2R255akCfO.PsZe.NfU6DtHEfXGjE14Zf
+ WQdrac0gG0KXfj4sn4pHme0xTrfSuL5P1Pxk2x4vb.i15m7L.3wFF3xsksbmAbdrBXYlmtl.0pj_
+ L81bBI881ILn92sjf35Jn.nsKcfh0.nVBuVQi..C1nx4os9nExwf7Dtpyx80F.tMQ5vF0w6GKLv9
+ h6b7UhQrvt0nR5CQebMDd5sqMO_deS0tbgXIviHO7waI2NmiiBAvM96tOGmxxzXd_nItR8CKry_T
+ YJK5QE0rE_V21p41UrQMUhEnNAzX8QlUMwSRobi.G93QOmTjHkMUn0P0EZZId7LmHGPLz4dByLzf
+ ExQ--
+Received: by 212.82.98.117; Tue, 23 Dec 2014 23:33:10 +0000 
+Date: Tue, 23 Dec 2014 23:33:09 +0000 (UTC)
+From: Amirah jonns <amirahjonns@hotmail.com>
+Reply-To: Amirah jonns <amirahjonns@hotmail.com>
+Message-ID: <1607996330.920244.1419377589820.JavaMail.yahoo@jws11124.mail.ir2.yahoo.com>
+Subject: Hello dear,
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_920243_2058753605.1419377589803"
+Content-Length: 1343
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+------=_Part_920243_2058753605.1419377589803
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0
+
+Hello dear,
+My name is Miss amirahjonns, i saw your profile here in FACE BOOK andadmire=
+ it, i would like us to be in a good relationship. Please write meback thro=
+ugh my private email address so that i will tell you moreabout me and intro=
+duce myself properly to you
+Your new friend amirah
+------=_Part_920243_2058753605.1419377589803
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="color:#000; background-color:#fff; font-family:Helvetica Neue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;font-size:16px"><div id="yui_3_16_0_1_1419353819195_157313"><span></span></div><div></div><div id="yui_3_16_0_1_1419353819195_159102">&nbsp;</div><div id="yui_3_16_0_1_1419353819195_157316"><div id="yui_3_16_0_1_1419353819195_157315">
+<br>
+<br>Hello dear,
+<br>My name is Miss amirahjonns, i saw your profile here in FACE BOOK andadmire it, i would like us to be in a good relationship. Please write meback through my private email address so that i will tell you moreabout me and introduce myself properly to you
+<br>Your new friend amirah</div></div></div></body></html>
+------=_Part_920243_2058753605.1419377589803--

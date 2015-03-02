@@ -1,0 +1,78 @@
+Return-path: <service2@businessbuilding.cc>
+Envelope-to: info@ughellipower.com
+Delivery-date: Sun, 22 Dec 2013 17:52:45 -0700
+Received: from [66.154.121.134] (port=33293 helo=mail.businessbuilding.cc)
+	by box899.bluehost.com with esmtp (Exim 4.80)
+	(envelope-from <service2@businessbuilding.cc>)
+	id 1VutlF-0005Ck-2N
+	for info@ughellipower.com; Sun, 22 Dec 2013 17:52:45 -0700
+X-DKIM: Sendmail DKIM Filter v2.8.3 mail.businessbuilding.cc A5C7D22789
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=businessbuilding.cc;
+	s=businessbuilding; t=1387759946;
+	bh=yklZQkdu64i8xNwBiDfBCRECMrHDjATo0oZzmmBMdF8=;
+	h=Reply-To:Message-ID:From:To:Subject:Date:MIME-Version:
+	 Content-Type;
+	b=lwK7Kviz/ER/eDrgBJjWhASnx/i6ezzzvWX3y7048gq1Zyew8k6ans73zEVoF49fP
+	 D2ww8ivjh8LklB/rxn/dNwOi5Ec4PsgDvoPPANjOnhVQl2HBh8ZWOonBcRiyz4dkCf
+	 554yg8um6nWOWKPFbFcmEjVlGNuak5TzmbsW2KdM=
+Reply-To: <18918035196@163.com>
+Message-ID: <602685A7576394C0D3EA8191F5E3D04D@rkstmshvt>
+From: "Generator" <service2@businessbuilding.cc>
+To: <info@ughellipower.com>
+Subject: Re: enquiry
+Date: Mon, 23 Dec 2013 07:32:27 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0C0F_01EC7102.1A0AD610"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0C0F_01EC7102.1A0AD610
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+RGVhciBGcmllbmQsDQpOaWNlIGRheSB0byB5b3UhDQpJZiB5b3VyIGNvbXBhbnkgbmVlZHMgYSBx
+dWFsaXR5IHN1cHBsaWVyIHdpdGggZGllc2VsIGdlbmVyYXRvcnMsIHdlbGNvbSB0byBjb250YWN0
+IG1lLg0KDQpQb3dlciByYW5nZToyNGt2Ye+9njE1MDBrdmEgICBQb3dlciByYW5nZToxMO+9njIw
+MDBrdmEgICAgICAgUG93ZXIgcmFuZ2U6NTDvvZ4xNzAwa3ZhDQpSZWNvbW1lbmQ6NTAwa3ZhLCBF
+RDUwMEMgICBSZWNvbW1lbmQ6MjAwa3ZhLEVEMjAwUCAgIFJlY29tbWVuZDoxMjBrdmEsRUQxMjBE
+DQpicmFuZCBuZXcsIG9yaWdpbmFsLiB0ZXN0ZWQgcmF0ZWQgcG93ZXIuIGdsb2JhbCB3YXJyYW50
+eS4gcXVpY2sgZGVsaXZlcnkuDQoNCiANCkJlc3QgJiBSZ2RzDQpEYXZpZCZQYXJ0bmVycyBHZW5l
+cmF0b3IgbHRkDQpSYXkgQ2hlbg0KQ29udGFjdDogKzg2LTE4OS0xODAzLTUxOTYNClNreXBlOiB0
+dWFsYXRpbjU3
+
+------=_NextPart_000_0C0F_01EC7102.1A0AD610
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMCBUcmFuc2l0aW9uYWwv
+L0VOIj4NCjxIVE1MPjxIRUFEPg0KPE1FVEEgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0
+Zi04IiBodHRwLWVxdWl2PUNvbnRlbnQtVHlwZT4NCjxNRVRBIG5hbWU9R0VORVJBVE9SIGNvbnRl
+bnQ9Ik1TSFRNTCA4LjAwLjYwMDEuMjM0ODciPjwvSEVBRD4NCjxCT0RZPg0KPFA+PEZPTlQgY29s
+b3I9Ymx1ZT5EZWFyIEZyaWVuZCw8L0ZPTlQ+PC9QPg0KPFA+PEZPTlQgY29sb3I9Ymx1ZT5OaWNl
+IGRheSB0byB5b3UhPEJSPklmIHlvdXIgY29tcGFueSBuZWVkcyBhIHF1YWxpdHkgc3VwcGxpZXIg
+DQp3aXRoIGRpZXNlbCBnZW5lcmF0b3JzLCB3ZWxjb20gdG8gY29udGFjdCBtZS48L0ZPTlQ+PC9Q
+Pg0KPFA+PEJSPjxGT05UIGNvbG9yPWJsdWU+UG93ZXIgcmFuZ2U6MjRrdmHvvZ4xNTAwa3ZhJm5i
+c3A7Jm5ic3A7Jm5ic3A7UG93ZXIgDQpyYW5nZToxMO+9njIwMDBrdmEmbmJzcDsmbmJzcDsmbmJz
+cDsmbmJzcDsmbmJzcDsmbmJzcDsgUG93ZXIgDQpyYW5nZTo1MO+9njE3MDBrdmE8QlI+UmVjb21t
+ZW5kOjUwMGt2YSwgDQpFRDUwMEMmbmJzcDsmbmJzcDsmbmJzcDtSZWNvbW1lbmQ6MjAwa3ZhLEVE
+MjAwUCZuYnNwOyZuYnNwOyZuYnNwO1JlY29tbWVuZDoxMjBrdmEsRUQxMjBEPC9GT05UPjwvUD4N
+CjxQPjxGT05UIGNvbG9yPWJsdWU+YnJhbmQgbmV3LCBvcmlnaW5hbC4gdGVzdGVkIHJhdGVkIHBv
+d2VyLiBnbG9iYWwgd2FycmFudHkuIA0KcXVpY2sgZGVsaXZlcnkuPC9GT05UPjwvUD4NCjxQPjxG
+T05UIGNvbG9yPWJsdWU+PElNRyBib3JkZXI9MCBoc3BhY2U9MCBhbHQ9IiIgYWxpZ249YmFzZWxp
+bmUgDQpzcmM9Imh0dHA6Ly93d3cuaHVsc2luZ3NvZnQuY29tL2luYy9waWNzL2dlbmVyYXRvcnMu
+anBnIj48L0ZPTlQ+PC9QPg0KPFA+PEZPTlQgY29sb3I9Ymx1ZT48L0ZPTlQ+Jm5ic3A7PC9QPg0K
+PFA+PEZPTlQgY29sb3I9Ymx1ZT5CZXN0ICZhbXA7IFJnZHM8L0ZPTlQ+PC9QPg0KPFA+PEZPTlQg
+Y29sb3I9Ymx1ZT5EYXZpZCZhbXA7UGFydG5lcnMgR2VuZXJhdG9yIGx0ZDxCUj5SYXkgQ2hlbjxC
+Uj5Db250YWN0OiANCis4Ni0xODktMTgwMy01MTk2PEJSPlNreXBlOiB0dWFsYXRpbjU3PC9GT05U
+PjwvUD48L0JPRFk+PC9IVE1MPg0K
+
+------=_NextPart_000_0C0F_01EC7102.1A0AD610--
+

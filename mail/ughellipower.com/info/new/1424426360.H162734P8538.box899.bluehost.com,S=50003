@@ -1,0 +1,893 @@
+Return-path: <bounces+761257-2afe-info=ughellipower.com@email.vmdigital.co.za>
+Envelope-to: info@ughellipower.com
+Delivery-date: Fri, 20 Feb 2015 02:59:20 -0700
+Received: from [192.254.113.61] (port=33112 helo=o1.email.decisionmakers.co.za)
+	by box899.bluehost.com with esmtps (TLSv1.2:DHE-RSA-AES128-GCM-SHA256:128)
+	(Exim 4.82)
+	(envelope-from <bounces+761257-2afe-info=ughellipower.com@email.vmdigital.co.za>)
+	id 1YOkMh-0002BX-Kf
+	for info@ughellipower.com; Fri, 20 Feb 2015 02:59:20 -0700
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.vmdigital.co.za; 
+	h=content-type:mime-version:from:to:reply-to:subject; s=smtpapi; 
+	bh=Tg4u+8MM3/50KXkOX/I8bSHuccw=; b=X1CCI3NqDAwADN8PEjER2rz0oCjYV
+	X8benSbsKfw1VL3iUfPh4A0B9ADAtkyXJY4vtIWp7F2ETJwKkmAA2YHbhrOvlBzz
+	WGPeIAqVNi41yhdcB4PXtA/E2rpZnqfDxObRAxb/ZQCE2MeH3N09hR7iGlJ3d/Nv
+	oyvqyIf4ZFphJw=
+Received: by filter-315.sjc1.sendgrid.net with SMTP id filter-315.11535.54E7052C1D
+        2015-02-20 09:58:04.905639866 +0000 UTC
+Received: from NzYxMjU3 (unknown [10.42.83.122])
+	by ismtpd-042 (SG) with HTTP id 14ba66c3762.1954.45face
+	for <powergen@email.vmdigital.co.za>; Fri, 20 Feb 2015 09:58:04 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============5888229254605383462=="
+MIME-Version: 1.0
+From: POWER-GEN Africa & DistribuTECH Africa <powergen@email.vmdigital.co.za>
+To: info@ughellipower.com
+Reply-to: lindi@tradeprojects.co.za
+Subject: Discussions around Power Crises at POWER-GEN Africa 2015
+Message-ID: <14ba66c3762.1954.45face@ismtpd-042>
+Date: Fri, 20 Feb 2015 09:58:05 +0000 (UTC)
+X-SG-EID: CvOymCPnUQUbTHWTEm5RJ8DnPNA8M7lzcwkKROpKC42G6zq+Urjv90jWp5yWNyWZg0oGTahkjfF5lK
+ QMIniJAZDWkcQQ4q/w29MOGePHLdoTvYuma4yt25zksLAc+aomC7lIK5vzWx/ASl1SOTvHx0svgVy9
+ PBYASnE2Mg2+uqY=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LBVF10H6bX213r2UJXAMrmWYzIk7p9lQc7ffA
+ o4o4eHXtnxDoynXwKpo7vDF3YZrBIQobTzcjlh58EPff69ABj2OGsffUxu+ywweF4dEq1RUhrqb7tZ
+ QJ1aMAs9jaAokUdyVizCrRHQBnVhOetn61Xomt7s3sdcz4KtTo5psB7rDVyZXtp6x3R/v2CELNreJp
+ M8l+BvnBttW4Bb9o1COhxjLd/alP56sdcS44I7a6wMNg==
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+--===============5888229254605383462==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Having trouble viewing this email? Read it online instead ( http://www.vibr=
+antmedia.co.za/r.php?clid=3D411&rsid=3D10434&mmail=3Dinfo@ughellipower.com =
+)                                                                          =
+                                   February 2015 Newsletter
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                                         ( http://www.vibrantmedia.co.za/r.=
+php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com )                =
+                                                             THE POWER CRIS=
+IS- HOW TO MANAGE IT?=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+                Ughelli Power Plc
+                Nigeria
+                20 February 2015
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                Dear                                                       =
+                        Join the global power community  at POWER-GEN Afric=
+a from 15-17 July 2015 in Cape Town, South Africa to learn about the latest=
+ technologies and best practice solutions to tackle the current power crisi=
+s.                                                                         =
+    REGISTER NOW TO LEARN MORE ( http://www.vibrantmedia.co.za/r.php?clid=
+=3D411&rsid=3D10436&mmail=3Dinfo@ughellipower.com )                        =
+                                                     WHAT ARE THE CURRENT I=
+SSUES?=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                                     Across Sub Saharan Africa, chronic pro=
+blems have escalated into a critical phase:
+
+                    =E2=80=A2 Power shortages and regular interruptions is =
+now affecting 30+ African countries with an economic cost of more than 2% o=
+f GDP=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                    =E2=80=A2 In Sub Saharan Africa, just one in five has a=
+ccess to electricity. If current trends continue, less than 40% of African =
+countries will reach universal access to electricity by 2050
+
+                  =E2=80=A2 In South Africa, the population is learning to =
+live in the dark and are now checking electricity reports like they are wea=
+ther reports
+
+                  CLICK HERE FOR MORE  INFORMATION ( http://www.vibrantmedi=
+a.co.za/r.php?clid=3D411&rsid=3D10437&mmail=3Dinfo@ughellipower.com )
+
+                                                                           =
+                                HOW  CAN YOU HELP   SOLVE THE  CRISIS?=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                                     POWER-GEN Africa provides the ideal pl=
+atform for you to discuss solutions to  Africa's energy crisis such as::
+
+                  =E2=80=A2 Improving fuel and operational flexibility with=
+out reducing load or sacrificing power plant availability
+                    =E2=80=A2                     Increasing energy efficie=
+ncy awareness
+                    =E2=80=A2 Optmising use of existing resources
+                    =E2=80=A2 Continual pursuit of alternative energy sourc=
+es - renewables, gas nuclear and hydropower=20
+                    =E2=80=A2 Maintenance upgrades to improve long-term rel=
+iability=20
+                  =E2=80=A2 Independent companies selling power to the grid=
+=20
+
+                  CLICK HERE FOR MORE  INFORMATION ( http://www.vibrantmedi=
+a.co.za/r.php?clid=3D411&rsid=3D10437&mmail=3Dinfo@ughellipower.com )
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                                                                           =
+                                 WANT TO SHOWCASE YOUR LATEST TECHNOLOGIES?=
+                                                                           =
+                                     ( http://www.vibrantmedia.co.za/r.php?=
+clid=3D411&rsid=3D10438&mmail=3Dinfo@ughellipower.com )
+
+                                     Premium booths at great rates are  ( h=
+ttp://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10438&mmail=3Dinfo@ugh=
+ellipower.com )still available at POWER-GEN Africa.  ( http://www.vibrantme=
+dia.co.za/r.php?clid=3D411&rsid=3D10438&mmail=3Dinfo@ughellipower.com )
+
+                    Book now to reserve your booth for the   ( http://www.v=
+ibrantmedia.co.za/r.php?clid=3D411&rsid=3D10438&mmail=3Dinfo@ughellipower.c=
+om )chance to  ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D1043=
+8&mmail=3Dinfo@ughellipower.com ) showcase your  ( http://www.vibrantmedia.=
+co.za/r.php?clid=3D411&rsid=3D10438&mmail=3Dinfo@ughellipower.com )company'=
+s ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10438&mmail=3Dinf=
+o@ughellipower.com ) latest technologies for a sustainable future. ( http:/=
+/www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10438&mmail=3Dinfo@ughellip=
+ower.com )
+
+CLICK HERE FOR MORE  INFORMATION ( http://www.vibrantmedia.co.za/r.php?clid=
+=3D411&rsid=3D10439&mmail=3Dinfo@ughellipower.com )
+
+                                                                           =
+                                                                           =
+Owned & Produced by:                    Host Utility:                     P=
+resented by:                    Co-Located With:                           =
+                                                                           =
+                                                                           =
+    ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10435&mmail=3Di=
+nfo@ughellipower.com )                     ( http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com )              =
+       ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10435&mmail=
+=3Dinfo@ughellipower.com )                     ( http://www.distributechafr=
+ica.com/index.html )                                                       =
+                                                                           =
+        Supported by:                                                      =
+                                                                           =
+                                                                         ( =
+http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10440&mmail=3Dinfo@ug=
+hellipower.com )  ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D1=
+0435&mmail=3Dinfo@ughellipower.com )                     ( http://www.vibra=
+ntmedia.co.za/r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com )=
+                     ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=
+=3D10435&mmail=3Dinfo@ughellipower.com ) ( http://www.vibrantmedia.co.za/r.=
+php?clid=3D411&rsid=3D10440&mmail=3Dinfo@ughellipower.com )                =
+     ( http://www.vibrantmedia.co.za/r.php?clid=3D411&rsid=3D10435&mmail=3D=
+info@ughellipower.com )
+
+                                                          To unsubscribe to=
+ this e-newsletter, e-mail lindi@tradeprojects.co.za ( mailto:lindi@tradepr=
+ojects.co.za?subject=3DPlease unsubscribe me )=
+
+--===============5888229254605383462==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type=
+">
+    <title>POWER-GEN Africa 2015</title>
+    <style type=3D"text/css">
+/*<![CDATA[*/
+    body {
+    background-color: #999999;
+    font-size: 12;
+}
+a:link {
+    color: #000;
+    text-decoration: none;
+}
+a:hover {
+    color: #999;
+    text-decoration: none;
+}
+body, td, th {
+    font-size: 14px;
+    color: #000;
+    font-weight: bold;
+}
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+a:active {
+    color: #FFF;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 10px;
+    background-color: #000000;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-color: #000;
+    border-right-color: #000;
+    border-bottom-color: #000;
+    border-left-color: #000;
+}
+/*]]>*/
+    body p {
+    font-weight: normal;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    </style>
+    </head>
+=20
+    <body>
+    <table align=3D"center" border=3D"0" cellpadding=3D"10" cellspacing=3D"=
+0" width=3D
+    "619">
+      <tr>
+        <td align=3D"center" valign=3D"top" style=3D"background-color: #FFF=
+FFF"><table cellspacing=3D"5" cellpadding=3D"5" width=3D"100%" align=3D"cen=
+ter" border=3D"0">
+          <tbody>
+            <tr>
+              <td style=3D"font-size: 11px; font-family: Arial,Verdana,sans=
+-serif; color: #000000" valign=3D"middle" align=3D"center">Having trouble v=
+iewing this email? <a style=3D"font-size: 11px; font-family: Arial,Verdana,=
+sans-serif; color: #000000" href=3D"http://email.vmdigital.co.za/wf/click?u=
+pn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs=
+711BOSbSfmS-2FBfsGxNmDLOTOGx8bYSGPTvOLvEQfHZdyN6Re-2FeToTqksVFM-2FFrDhjWdiq=
+v_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1n4MCopx7Bn=
+PMiJtgENH7QXzfxBZ-2F-2BNRje-2BTY7jecRuy1qFXJpnhD-2FEYmWWi-2Fn58r5zqVl-2F56l=
+Lh-2BCvQafJ7IzleOqpLuvVdo3uIx3OZCGKe91aIHPnY7YrbHV64FxR8KVzIE-2BJ7kvYTWKdua=
+B0PS58fZgwps6oBAWvnQ-2Fy01BM4DlJfJlbLeavqdavWjRKnIDA6q6UsX4WvLsF7QIatXrb-2F=
+nsTEsJuj99GhJdJMy6sR1frjXfrolQJdfsxgGaHhDY1OncwYlhxDgl-2FwYu1edcCHI8h-2FNYM=
+hKbxVS-2BYHw2yJD9q4-2BcgKmEDlFewjyiCTZppwEAMAhhJXay-2FZ7lDlwRsJP5bVr6PCQfsb=
+3qgGSZRnyeOFVOViC5EbPM0tO0yQG1lUSmBrhdJ75huc4phut2Ag-3D-3D">Read it online =
+instead</a></td>
+            </tr>
+          </tbody>
+        </table></td>
+      </tr>
+      <tr>
+        <td width=3D"599" align=3D"center" valign=3D"top" style=3D"backgrou=
+nd-color: #FFFFFF"><div style=3D
+                "text-align: center; font-family: Arial, Helvetica, sans-se=
+rif;">
+          <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+600">
+            <tr>
+                <td width=3D"600" height=3D"14" align=3D"right"
+                            valign=3D"middle" style=3D
+                            "background-color: #000000; color: #000; font-f=
+amily: Arial, Helvetica, sans-serif; font-size: 24px"><div style=3D
+                                "font-family: Arial, Helvetica, sans-serif;=
+ font-size: 22px; font-weight: bold">
+                    <p style=3D
+                                "font-size: 14px; font-family: Arial, Helve=
+tica, sans-serif; font-weight: bold; color: #FFF;"> <span style=3D"font-fam=
+ily: Arial, Helvetica, sans-serif">February</span> 2015 Newsletter</p>
+                  </div></td>
+              </tr>
+            <tr style=3D"font-family: Arial, Helvetica, sans-serif">
+              <td height=3D"14" align=3D"center"
+                            valign=3D"middle" bgcolor=3D"#FFFFFF" style=3D
+                            "font-family: Arial, Helvetica, sans-serif"><sp=
+an style=3D"text-align: center"><a href=3D
+                                    "http://www.vibrantmedia.co.za/r.php?cl=
+id=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                    target=3D"_blank"><img src=3D
+                                    "https://pennwell.box.com/shared/static=
+/wmhnh4f4l7xiwieldl6i.jpg" alt=3D"PGAF Banner Header"
+                                    width=3D"600" height=3D"200"
+                                    border=3D"0" usemap=3D"#Map"></a></span=
+></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"center"
+                            valign=3D"middle" bgcolor=3D"#FFFFFF" style=3D
+                            "font-family: Arial, Helvetica, sans-serif"> </=
+td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"24" align=3D"center"
+                            valign=3D"middle" bgcolor=3D"#000000" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"><span style=3D"padding: 0px; background-color: #000000; colo=
+r: #FFF; font-family: Arial, Helvetica, sans-serif; font-size: 18px"><span =
+style=3D"font-size: 20px;">THE POWER CRISIS- HOW TO MANAGE IT?</span></span=
+></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td align=3D"left" style=3D"font-family: Arial, Helvetica, sa=
+ns-serif; font-size: 14px;">  <br>
+                Ughelli Power Plc<br>
+                Nigeria<br>
+                20 February 2015<br>
+                <br>
+                Dear  </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px; font-weight: normal;"><span style=3D"font-family: Arial, Helv=
+etica, sans-serif">Join the global power community  at <strong>POWER-GEN Af=
+rica</strong></span> <span style=3D"font-family: Arial, Helvetica, sans-ser=
+if">from <strong>15-17 July 2015</strong> in Cape Town, South Africa to lea=
+rn about the latest technologies and best practice solutions to tackle the =
+current</span> <span style=3D"font-family: Arial, Helvetica, sans-serif">po=
+wer crisis.</span></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"center"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"center"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"><a href=3D"http://email.vmdigital.co.za/wf/click?upn=3DZc43t=
+-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSIFJi=
+yimvgtkcVORGwdnAcwZYvi5jyg2M5fRmoME6vvFL1tYW5UaPDlu3Hr7cdQ8C_qjRJ2VNrqhx1KL=
+dB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nkAxta5LqmhCQYz9d3gEWRYSoW=
+EqQ7SPKt3tm2xWl9YBppp0gfxkVgoj2DGqewuziIEZgUK3Szidn-2BYL-2BD4ammLDFUaBsCc6c=
+qjbgi7Y0NP9Y-2Bt52PJwtq21mLx-2BJe-2BeVYjeVqypVBymZmXtTM-2BJEB3W8MTu0jmm-2Bb=
+ijLWd4vwYKKWi3xkq469VFni9VIPVNhFrpVrLveU6QFO5IaDg-2B3IW-2Fkxr2am8IL6uY7Mv-2=
+BhDP65ArSI5pHDrtedn-2FftuJpvtYQKnHiR6MOIJ7x7oCdVd6ohFbQZeW-2FqiIgho-2BLeS4K=
+WVkmWguVZs59uVcm8iFO4SYAQ8irRLnMljFKLtG5UocoRNQDUNcgKBAnKXxac2MaetXjFgsY3ba=
+pm1DiFSL6VM9sNT4gowOVA2ecfdP0eJg-3D-3D" title=3D"Register for POWER-GEN Afr=
+ica" target=3D"_blank"><span style=3D"color: #000; padding: 10px; text-alig=
+n: left; background-color: ##E16230; -webkit-border-radius: 10px; border-ra=
+dius: 10px; text-decoration: none; font-family: Arial, Helvetica, sans-seri=
+f; font-size: 18px;"><strong>REGISTER NOW TO LEARN MORE</strong></span></a>=
+</td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"24" align=3D"center"
+                            valign=3D"middle" bgcolor=3D"#9F0A0E" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 20px; color: #FFF;">WHAT ARE THE CURRENT ISSUES?</td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"><table width=3D"600" border=3D"1" cellspacing=3D"0" cellpadd=
+ing=3D"5">
+                <tr>
+                  <td width=3D"295" align=3D"center" valign=3D"top"><p><img=
+ src=3D"https://pennwell.box.com/shared/static/3cx0u2pz12nz1a3e4auktzq6hbfs=
+6fdf.jpg" alt=3D"Load Shedding" width=3D"250" height=3D"167"></p>
+                  <p><img src=3D"https://pennwell.box.com/shared/static/44s=
+j9opqet9o97zb8k4mq9fxxc9isq2z.jpg" alt=3D"Electricity Blackouts" width=3D"2=
+50" height=3D"167"></p></td>
+                  <td width=3D"10" bgcolor=3D"#E16230"> </td>
+                  <td width=3D"295" align=3D"left" valign=3D"top"><p><span =
+style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-w=
+eight: normal;"><span style=3D"font-family: Arial, Helvetica, sans-serif">A=
+cross Sub Saharan Africa, chronic problems have escalated into a critical p=
+hase</span></span>:</p>
+                    <p><span style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-weight: normal;">=E2=80=A2 Power shortages and regular interrupt=
+ions is now affecting 30+ African</span> <span style=3D"font-family: Arial,=
+ Helvetica, sans-serif; font-weight: normal;">countries</span> with an<span=
+ style=3D"font-family: Arial, Helvetica, sans-serif; font-weight: normal;">=
+ economic cost of more than 2% of GD<span style=3D"font-family: Arial, Helv=
+etica, sans-serif">P</span></span>                    </p>
+                    <p><span style=3D"font-family: Arial, Helvetica, sans-s=
+erif; font-weight: normal;">=E2=80=A2 In Sub Saharan Africa, just <span sty=
+le=3D"font-family: Arial, Helvetica, sans-serif">one in five </span>has acc=
+ess to electricity. If current trends</span> <span style=3D"font-family: Ar=
+ial, Helvetica, sans-serif; font-weight: normal;">continue, less than 40% o=
+f African countries will reach universal access</span> <span style=3D"font-=
+family: Arial, Helvetica, sans-serif; font-weight: normal;">to electricity =
+by 2050</span></p>
+                  <p><span style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal;">=E2=80=A2 In South Africa, the population is</spa=
+n> <span style=3D"font-family: Arial, Helvetica, sans-serif; font-weight: n=
+ormal;">learning to live in the dark and are now checking electricity repor=
+ts like they are weather reports</span></p>
+                  <p><span style=3D"background-color: #F78B1F; font-family:=
+ Arial, Helvetica, sans-serif; font-weight: normal;"><a href=3D"http://emai=
+l.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2B=
+dR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSI7dEuwt7Yz8wqGDNR7Klh88kaWaoegoF7fJSmqjwm=
+H8SAzb727GIavVAzi-2F43h0z_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzL=
+LzltA5Zi4jOVc1nopBfLFPzIywI3Fx0YFFR85-2FF6djKzuREfv6c-2FnIimh5DB-2FHzXO-2FM=
+oi8VFrSavttipTgCOkyfMmcFuPeo6VESccYr8qUqEafFnO-2BMswDgAUphaVh3OeelxhPfeory7=
+f4wsa6gFpn8xukljdwsE4J9B1-2FHlao5CQzLsk1IYqgyfLLq99dG6CUURih8Q9OX9ti1GWNtWA=
+icmNM5nMm3P5cFsim7TsuJZeJy6-2B6RD5knCa6Ta-2BUWuTVlCibo1NCbSxER8MI5JLOg8CFdf=
+W4yfC-2Bo9RJoWi5Pq6iDqQQjixBX7RA4-2FUqGrnjsabRqT9Roz8WjiE6oBbiaZ-2FmmLh4FaF=
+DhQmCtv6NoItNnRtZ06aYekigzvFe5cEkrbCPv-2BxO6KeCg5V-2BXXjlyF4uxcPeVCA2q-2FQ-=
+3D-3D" title=3D"POWER-GEN Africa Conference Information" target=3D"_blank">=
+<span style=3D"color: #000; padding: 10px; text-align: left; background-col=
+or: #e16230; -webkit-border-radius: 10px; border-radius: 10px; text-decorat=
+ion: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><st=
+rong style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">=
+CLICK HERE FOR MORE  INFORMATION</strong></span></a></span></p></td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"24" align=3D"center"
+                            valign=3D"middle" bgcolor=3D"#9F0A0E" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 20px; color: #FFF;">HOW  <span style=3D"font-family: Arial, Helveti=
+ca, sans-serif">CAN YOU</span> HELP   SOLVE THE  CRISIS?</td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"><table width=3D"600" border=3D"1" cellspacing=3D"0" cellpadd=
+ing=3D"5">
+                <tr>
+                  <td width=3D"295" align=3D"center"><p><img src=3D"https:/=
+/pennwell.box.com/shared/static/64ofjujx8h2ow24we3izcgqcbj2lc2eh.jpg" alt=
+=3D"Conference Panel Discussion" width=3D"250" height=3D"167"></p>
+                  <p><img src=3D"https://pennwell.box.com/shared/static/o1m=
+a7pzgvxlko9c3q3mxtu8wbv4khmw1.jpg" alt=3D"Speaker" width=3D"250" height=3D"=
+167"></p></td>
+                  <td width=3D"10" bgcolor=3D"#E16230"> </td>
+                  <td width=3D"295" align=3D"left" valign=3D"top"><p>POWER-=
+GEN Africa provides the ideal platform <span style=3D"font-family: Arial, H=
+elvetica, sans-serif">for you</span> to discuss solutions to  Africa<span s=
+tyle=3D"font-family: Arial, Helvetica, sans-serif">'s</span> energy crisis =
+such as::</p>
+                  <p><span style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-weight: normal;">=E2=80=A2 </span>Improving fuel and operational f=
+lexibility without reducing load or sacrificing power plant availability<br>
+                    <span style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-weight: normal;">=E2=80=A2 </span>                    Increasing en=
+ergy efficiency awareness<br>
+                    <span style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-weight: normal;">=E2=80=A2</span> Optmising use of existing resourc=
+es<br>
+                    <span style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-weight: normal;">=E2=80=A2 </span>Continual pursuit of alternative =
+energy sources - renewables, gas nuclear and hydropower=20
+<br>
+                    <span style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-weight: normal;">=E2=80=A2 </span>Maintenance upgrades to improve l=
+ong-term reliability <br>
+                  <span style=3D"font-family: Arial, Helvetica, sans-serif;=
+ font-weight: normal;">=E2=80=A2</span> Independent companies selling power=
+ to the grid </p>
+                  <p><span style=3D"background-color: #F78B1F; font-family:=
+ Arial, Helvetica, sans-serif; font-weight: normal;"><a href=3D"http://emai=
+l.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2B=
+dR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSI7dEuwt7Yz8wqGDNR7Klh88kaWaoegoF7fJSmqjwm=
+H8SAzb727GIavVAzi-2F43h0z_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzL=
+LzltA5Zi4jOVc1nI0aVe1EIWp-2Fnf8-2BVdQ5JGCuUhRjupqzrH7roI2-2FiMVbJjpmI2jQJbT=
+r74mtsGaG7diqTPqag5oCBVPewczAAHGjKSHc0daNUoLWj8QnZ37Gl-2BPyLw1o-2BkAq3T8-2F=
+D15iTcEWCrJHFjfHVDbipyVesnRpr3AF0XsGcsRw8NJHqcN7JAMSmHoAGOOkOl-2BKGQ3qKD0uG=
+pTdzuFHD4U4kYlzcdI1gir-2F2sq-2FG2-2BEEs5UsqQ9U-2BQJHrRrvfrOyQa6GBHTy9LnGOl3=
+TpiiG2XW-2BPTILgj-2Fim63C0HQ2pPxWRQ1BXo-2FFG69pKr5zgNFJZ9jMiF1sorrb7mULh5q6=
+-2Fe2-2BewwGE2eAv5XNpi0eN595knb-2B71nzFew2Uhv9WNoNZdswVfs0k6t3Ztyn4T1Xsq0Vo=
+qSRpg-3D-3D" title=3D"POWER-GEN Africa Conference Information" target=3D"_b=
+lank"><span style=3D"color: #000; padding: 10px; text-align: left; backgrou=
+nd-color: #e16230; -webkit-border-radius: 10px; border-radius: 10px; text-d=
+ecoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px=
+;"><strong style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 1=
+2px;">CLICK HERE FOR MORE  INFORMATION</strong></span></a></span></p>
+                  <p> </p></td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"24" align=3D"center"
+                            valign=3D"middle" bgcolor=3D"#9F0A0E" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 20px; color: #FFF;"> WANT TO SHOWCASE YOUR LATEST TECHNOLOGIES?</td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td height=3D"14" align=3D"left"
+                            valign=3D"top" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"> </td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF; font-family: Arial, Hel=
+vetica, sans-serif;">
+              <td align=3D"left" height=3D"22" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"
+                            valign=3D"top"><table width=3D"600" border=3D"1=
+" cellspacing=3D"0" cellpadding=3D"5">
+                <tr>
+                  <td width=3D"295" align=3D"center" valign=3D"top"><p><a h=
+ref=3D"http://email.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O=
+1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSBanAtALsd03ISovvxxuXLJi=
+kqqHtBj3B4skWiuMrPlVn31Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBL=
+iVN1OnKNCHsYslzLLzltA5Zi4jOVc1n-2Fi8Qi4PFuJHl6KfnzwIUXIFjLhfbkRu3a6S32dSrA8=
+A4211N15DN2-2F9-2BGSQY3l-2BH2XwHlyCACnexcvpRbPgavzljP-2F09s8MpJ5fcphbvUiwq9=
+RJfXPmD-2FGstVGHZgsjrrkD1Sa72qws8drjsbbZb1FK-2F9n-2FkpNHkbPl3-2Feq1e9RONpyx=
+Gz8Rpfmh2WdGNdxN2MBYlv68VMxKjKRg-2FBr-2F2yM1fjudbz-2Fz-2BjxUgJIswXRfWZJs-2F=
+IuqeMnb93lia4iUY4xH117CbPsUWhzILnfbcE51ER-2B9u0iEAVWBGuyvoRCn244paoNhigWI3M=
+LdcEzS7wXSz5KoNsSRc-2Fyy7NpKCHR66X-2Fbf6nLzaw3jde1icUyN6uCGBe-2BOo8oy5loA3e=
+-2Bvg59su6AV3zleZd8FO5zWw-3D-3D" target=3D"_blank"><img src=3D"https://penn=
+well.box.com/shared/static/ik2xsc4fx5j8qfy295jw.jpg" alt=3D"Exhibition" wid=
+th=3D"250" height=3D"167"></a></p></td>
+                  <td width=3D"10" style=3D"border-left-color: #000; border=
+-bottom-color: #000; border-right-color: #000; border-top-color: #000; bord=
+er-left-width: 1px; border-bottom-width: 1px; border-right-width: 1px; bord=
+er-top-width: 1px; background-color: #e16230;"> </td>
+                  <td width=3D"295" align=3D"left" valign=3D"top" style=3D"=
+padding: 5px; font-family: Arial, Helvetica, sans-serif;"><p><a href=3D"htt=
+p://email.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND=
+-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSBanAtALsd03ISovvxxuXLJikqqHtBj3B4=
+skWiuMrPlVn31Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCH=
+sYslzLLzltA5Zi4jOVc1nH6QwGMmH4731Bry11WDqUGNb4QLKbF7EdeMXMuCXlJqRcx0zN1E-2F=
+SMRi9zXWevREOG-2FxB-2BNP-2FkKHqBD8EntcNkoO-2BErcKgoh9-2BcA-2B7HLkBp24bu4hah=
+hRkEOQPUfHuBjNBnxogPpX8h-2FTXlqsmV4m1Q1tqE33TWkgsYmGBffhxvJil3LUWxtUE9VoTdu=
+EOvx2VKT-2BJ4ynJUK2EV0jr114a45aXCMOM072h3SJn-2B9xeabhzr0NN6VluuB6NFbUjqa84E=
+Ek8kz5NvkYI6BB7lbpIxeC2XoNU3ZTGhWBbviORjSFSyrlVqHMPbxJZR4XC-2BVjAgfP47KFhGq=
+bp-2FKClAcvPwdftloCsLXGYUODtURj-2B7eJahwQXXWRiBhvK-2BHj4UOnCQ33a-2FrxiWruX7=
+qxUbU6w-3D-3D" target=3D"_blank" style=3D"font-family: Arial, Helvetica, sa=
+ns-serif">Premium booths at great rates are </a><a href=3D"http://email.vmd=
+igital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2BdR0pS=
+xBK0-2FYSu0LcJAwfT-2FBs711BOSBanAtALsd03ISovvxxuXLJikqqHtBj3B4skWiuMrPlVn31=
+Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Z=
+i4jOVc1n-2Bc4WHD6HTwEAqAEqPxa-2B8F0gNnHYQ-2BsDvV4p6q4jzIz-2BwdU90EV27bqN-2F=
+6lBf0vjw6kt7z-2BF0-2FzM5hqdwCqj3N4NbhYwN-2BNGq6cotiL-2BVtAQ2xOAnB6tRukDbg15=
+KNPByF7LaKXEhOgh4aMrNSlTFdyD6RHd5sm-2BtZ8mDY0n82OELP43bW4ZLu38UDPsjbBoKLgRp=
+hYO9gSRYkMzmr4fqP0jCyiQFE58xotl9JZ4iIPGvdAz3tuZSYuy0DgBb4YHVswBLOBXC6YzAZHt=
+pUNMqLNkYq-2BsPnpCy1fRCs-2FKWA5vcakuKpxVOGgGI505A2wxrStL-2FvYFevgsE3Q2FKgeV=
+0tfNh6A1u1u3rnTePdIXvuWmZlxJrqF2Bzou8pW3Ahd812FLAscNJr4XNM403mMiA-3D-3D" ta=
+rget=3D"_blank">still available at POWER-GEN Africa. </a></p>
+                    <p style=3D"font-family: Arial, Helvetica, sans-serif; =
+font-size: 14px;"><a href=3D"http://email.vmdigital.co.za/wf/click?upn=3DZc=
+43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSB=
+anAtALsd03ISovvxxuXLJikqqHtBj3B4skWiuMrPlVn31Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx=
+1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nZaIaBUmpgSiN-2B-2BP-2B=
+cry3Y88Mc8uaju8s42oehbVP2a9Bu1l3GhZ6bhQJRolabbLToRRVfBHQ2WCayQ6QXQQsWlaexfg=
+Jww3usRhqST7mwU4x4ysRfy16RyNP6TZUKmGFwjSPolGG-2Bzls33z1jt2eRah8XTXxEO39VjPH=
+cGTLwAL08Sy4nuTM9BtsaZI7FeRC718nQcxlphhIFS6Xv6SIaoFVDjI-2BwRO6abFrnuPUAk3JY=
+IXyn-2Fsq9Dvw2R8WGvt0TgcA5ls5Dge7ElVbp80tFpkpdnn5JDCLjIBiUculShg1Ncw456-2F0=
+EqKDAwcuwbDXnxlgP7Bk-2Bs6GzUEnLr8bgzDn2DQzDnGZPGTojHdz6iwmb-2FkghnTojf54wpg=
+VugpSKUqaT4ChFeWJYVFpZa7okQ-3D-3D" target=3D"_blank" style=3D"font-family: =
+Arial, Helvetica, sans-serif">Book now to reserve your booth for the  </a><=
+span style=3D"font-family: Arial, Helvetica, sans-serif"><a href=3D"http://=
+email.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FD=
+h-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSBanAtALsd03ISovvxxuXLJikqqHtBj3B4skWi=
+uMrPlVn31Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYsl=
+zLLzltA5Zi4jOVc1n-2FVRjwXxoj2jp78I4rCgYttkQoLoUZi-2F7EDAAg1GUr-2BI9gMB36XOf=
+RH9ewdVQCnWLWYXD7gzW45ODlvdZibPK8UYDyPQdjyDMgy9V9Mmcf-2FG-2Bp9wquI7lUPTCp7i=
+l-2FzT1XT3gAwtSSu-2F9xZGLizgQOu50h7SxxkjOiYgqb2K8QIFzJXKGjDN10-2BC9uB0ngNzD=
+9C5qlhR8bdntX-2BjZYMtBWTYhn1SxSSg9Jw-2FzdLTxYbBqdIF5iGCpETJtCjSSvS-2BLfB5vt=
+3hfDwkSmBErCioUVfD5rX8b2atVyY0X4qqY89Blwj8Dm0Kj9pAtaZkgStvwU3N7321p2JN5RovY=
+iuOlo5I0Nqo42ym5rqrds0iHq1-2BJbr9Rtp7o37EWpW34HCiN3vKrIZBau1K18tGB-2FFwKUg-=
+3D-3D" target=3D"_blank" style=3D"font-family: Arial, Helvetica, sans-serif=
+">chance to </a></span><a href=3D"http://email.vmdigital.co.za/wf/click?upn=
+=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs71=
+1BOSBanAtALsd03ISovvxxuXLJikqqHtBj3B4skWiuMrPlVn31Dd4zRIhomwq3IENB0Q_qjRJ2V=
+Nrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nKFHA1Ouyof6I8UfOH=
+m4jtibJIJFKqgU5sHX8pgjjGx2RIHUqQ0A3EYMRPH6DcKxnrGthXwPk9X8etsnG6Trj0JfLq29h=
+KDxiG2v81GoCidou-2Bnj4p617a8eQquBu2-2B-2FcztyTqRx6Ec96kkiUU2gF-2FVewfwlnHBl=
+-2Fj9IQ9AhKO-2FDBdMAVLKcFr4W96eA-2BgSsnjDBkeojnZKD0x5-2FbBnELA8Vl37xm44PaEs=
+HJUt-2BoLUa2v-2BxT5RhZBjpsiXaFMf2felvuoDK74rbqfI0MWcf-2BDmPiqH3VhhgLGFFxqHl=
+GnO1po8bHtof29lV-2FeKK7BEi-2BNNf3oGmlashXRIOz-2FW1WgNyFHotoL4Sr2BhFaA3RC8ud=
+sN01VpwBLw48NpVjDoUUPpHN-2Fy4EWd6IpRCS2TZRcw-3D-3D" target=3D"_blank"><span=
+ style=3D"font-family: Arial, Helvetica, sans-serif"> showcase your </span>=
+</a><a href=3D"http://email.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4g=
+DAIsid0O1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSBanAtALsd03ISov=
+vxxuXLJikqqHtBj3B4skWiuMrPlVn31Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx1KLdB9OJyDH71U=
+6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nNVDnIk9sHi9Qq2XGbr3v00FknpYw3tAAD4Wg=
+je6T6f21WWJVudutLrpiM8C1rcRsWTGqp66-2B4TYnIu947iN3Iv-2By-2FU4M5a3PIh2pTteZf=
+IZae7-2B-2B-2BiHyWoZ7-2FV8YMgpblQ9mLdCqJuSqIUH-2B07SSwP4ZjxA9sRSB7I7meGkEKr=
+cCcd9Smsg-2BBc2hIwdasYF4vNh5jZ7QUSKrHylsJDMiAjGZ6jpS4cZu9Hx64kMfxPRT2IhInuW=
+htJuZ4QOEK8m2k5XgVUsARGWuTGyHfLMWvUJpe5oFsfNrmU8Cmtq0FIR0W0u2S6bUNjS0FHvpoE=
+1KF2HLVLL-2BOVVMnxCL3qkuddHrKEmBC6Zkih1h-2FBPrOmjEz5FUsDTS6YZqdXjw9-2BVIjmp=
+S6b1z61I8iL3OYE8vJVEdp5omGY7t8xx2PKHj958-3D" target=3D"_blank" style=3D"fon=
+t-family: Arial, Helvetica, sans-serif">company's</a> <a href=3D"http://ema=
+il.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2=
+BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSBanAtALsd03ISovvxxuXLJikqqHtBj3B4skWiuMr=
+PlVn31Dd4zRIhomwq3IENB0Q_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLL=
+zltA5Zi4jOVc1naYuki3ELAm4jppVPDY-2FiZbttaAcc-2F7V3joaY4IIHyERYmOONriWqNmpUf=
+lZcQ4Y-2By5LV2AcNM-2FKUWa-2FQr-2BubUokhFjbD9DmtyWap-2FdUVaTFAxYE4uqeQnkAPoH=
+aGkd8L8rrFcUPCTgDKgIckspY31iEWp32MLAk1KtBcUypR-2Fjq0dW9tFJJWnbEQ967FsZZS1zO=
+uNLwDjvBzahC8e-2FsulI9-2FxCi2vgZIqtUeVhikfOOcfsga3HRqMO0jVxyS0-2BPf1zxx8Obg=
+PvODjSP-2FU85eRWcH7YFTDzOfGOWw-2Bxo9A5R7VX-2BFo1PSZENf7kzIlI6WddTUaARCtM6Xz=
+wZUxR9lLhUw338HsAmLWhnpOSRrMIS1JzSrOWvGPhMWtXPzbsXMAlkbZpmT18cnG9P3-2FkImo9=
+30oIJiuA35Y6ld5VC2qxs-3D" target=3D"_blank"><span style=3D"font-family: Ari=
+al, Helvetica, sans-serif">latest technologies <span style=3D"font-size: 14=
+px; font-family: Arial, Helvetica, sans-serif;">for a sustainable future.</=
+span></span></a></p>
+<p><span style=3D"background-color: #F78B1F; font-family: Arial, Helvetica,=
+ sans-serif; font-weight: normal;"><a href=3D"http://email.vmdigital.co.za/=
+wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2BdR0pSxBK0-2FYSu0Lc=
+JAwfT-2FBs711BOSTIgY-2B1JFYPgeJv5xy9bopaR-2Bbmurt2Y4tjzwxndbD0my54cdwrjPmOO=
+GSbXaXaVI_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nT=
+YAk3CVLan6nXqiuDc3FvcCg6Cs1iei8a9Ooy8RD0PZQ2GO2b3ta-2BxuGsyS49KkDy-2FuX3-2F=
+ptcgvokkGKmIjp-2BQqf67RVhDh9BDuMaJdXggPB4zoy7eTWTtqir-2BwFl3u6-2Bhlvi6Muas9=
+e8SJPyGr-2Baupxg6DoOKZUU5UO-2F2jUUFMcSifpmZJrlRkDUiLtxSOsQvSdu85GQ5iueVdF4o=
+4MlorlZbC7UNAeKpNX9GKrb-2FRK6Eq9J2Vff9vvrfSgepjE-2FAwtvP4jJEqEktRIkeS01ORPY=
+U1TlFkZe1kGr3w74Aqe0Pb5qFOOP4htfxyLzXFTWKaD1x21b7OtJKIHCGcQRekgQq104op93UC5=
+GDMJ0SmfCGIJYpUac8Tbt3-2FzPHNwgZq1R6tFMJ-2BDfRuCINLACrWfwFkrNKoI04IaqpDPivs=
+-3D" title=3D"POWER-GEN Africa Conference Information" target=3D"_blank"><s=
+pan style=3D"color: #000; padding: 10px; text-align: left; background-color=
+: #e16230; -webkit-border-radius: 10px; border-radius: 10px; text-decoratio=
+n: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;"><stro=
+ng style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 12px;">CL=
+ICK HERE FOR MORE  INFORMATION</strong></span></a></span></p></td>
+                </tr>
+              </table></td>
+            </tr>
+            <tr style=3D"background-color: #FFFFFF">
+              <td align=3D"left" height=3D"22" style=3D
+                            "font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 14px;"
+                            valign=3D"top"> </td>
+            </tr>
+            <tr>
+                <td align=3D"center" valign=3D"top"><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D
+                                "0" width=3D"600">
+                    <tr style=3D"background-color: #000;">
+                    <td width=3D"120" align=3D"center" valign=3D"middle" st=
+yle=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 12px; color: #FFF;"> Owned & Produced by:</td>
+                    <td width=3D"120" height=3D"24" align=3D"center" valign=
+=3D"middle" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 12px; color: #FFF;">Host Utility:</td>
+                    <td align=3D"center" valign=3D"middle" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 12px; color: #FFF;"><span style=3D
+                                        "color: #FFF; font-family: Arial, H=
+elvetica, sans-serif;"> Presented by:</span></td>
+                    <td align=3D"center" valign=3D"middle" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 12px; color: #FFF;">Co-Located With:</td>
+                  </tr>
+                    <tr style=3D"background-color: #000;">
+                    <td width=3D"120" height=3D"14" align=3D"center" bgcolo=
+r=3D"#FFFFFF" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 14px;"> </td>
+                    <td width=3D"120" align=3D"center" bgcolor=3D"#FFFFFF" =
+style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif"> </td>
+                    <td width=3D"120" height=3D"14" align=3D"center" bgcolo=
+r=3D"#FFFFFF" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif"> </td>
+                    <td width=3D"120" height=3D"14" align=3D"center" bgcolo=
+r=3D"#FFFFFF" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif"> </td>
+                  </tr>
+                    <tr>
+                    <td width=3D"120" align=3D"center" valign=3D"middle"><a=
+ href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_blank"><img alt=3D
+                                            "PennWell" border=3D"0" height=
+=3D
+                                            "48" src=3D
+                                            "https://pennwell.box.com/share=
+d/static/pxnf721oe308x6yu5s3o.jpg"
+                                            width=3D"110"></a></td>
+                    <td align=3D"center" valign=3D"middle"
+                                        width=3D"120"><a href=3D"http://ema=
+il.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0O1L-2FMidND-2FDh-2=
+BdR0pSxBK0-2FYSu0LcJAwfT-2FBs711BOSFwYk38fjvifLNzVaDB6lwJxf8b-2FIMBRZ-2BX1I=
+NfotPh1O5uBbbqy39RHbqtEdl9kZ_qjRJ2VNrqhx1KLdB9OJyDH71U6BJEToBLiVN1OnKNCHsYs=
+lzLLzltA5Zi4jOVc1n3E7vLNbhMz1qhxab-2FmJT1TQJY-2BbLVI-2BFCi7hnJdQa0X1AKWh8JT=
+hAzyaAf9hCxeVcfCIoedc3YclBfcqrjx7d0SIvOYXIgJT1gc-2BMWYrFBzh8L-2F4jxI0ujUhH3=
+TmWsAQW2rzlRR2N-2F-2FaE-2B0Vv8TjkUJeqnyb-2F-2B4aTklmsWgVG3BgahlgeVYpWwEu-2F=
+CSIgXvb7VvI2OF16AamJLFfbKh4Ru-2BgSBYPYt9Pc1c1NiQP3tUqkAYIDyGCTWcJUWOaJBSBwX=
+M5tNvV4uvMp-2F8v2c4Wvpv6Ta-2BqvH1nrUDpYKYLKDCOS-2BsEBcymYFahoYNcVEkDBNdPz4-=
+2BVEMx-2FtFsMSPW990YN1uoAd3bXKmaama89Yw9S9eJYagPHvdcd82xqohYe5rNObsoxbOL-2F=
+LAmjovqPTO-2B0nnGyt6-2F-2FpjVRu4B8ERc-3D" target=3D"_blank"><img src=3D"htt=
+ps://pennwell.box.com/shared/static/bf5tonhovrhyjbaovh9c.jpg" alt=3D"Eskom"=
+ width=3D"120" height=3D"31" border=3D"0"></a></td>
+                    <td align=3D"center" valign=3D"middle"
+                                        width=3D"120"><a href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_blank"><img alt=3D"P=
+EI"
+                                            border=3D"0" height=3D"49" src=
+=3D
+                                            "https://pennwell.box.com/share=
+d/static/c5xyg7cbl36076kmd89w.jpg"
+                                            width=3D"98"></a></td>
+                    <td width=3D"120" align=3D"center"><a href=3D"http://em=
+ail.vmdigital.co.za/wf/click?upn=3DZc43t-2FJgn7hi4gDAIsid0Kr22zDr6MhNyo5CaC=
+l2pMRwf6rS-2FBO71sdV1pxNuKcERSXEqWdJZiHPYJZ9PaB9xw-3D-3D_qjRJ2VNrqhx1KLdB9O=
+JyDH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nppZZCZ8h0Rky2IoM9fjxzb258boYZ=
+xTYrpvMhKdnu-2BNZCCrWbsxqdz4c-2BTiI-2F3MDTTAFkggTjTjhZdtvW9mGFz1MW3jBab92vY=
+GmuS3LdRYtNzrVVGb9fFS0xxaZQv1dr6nK6JgT4wyDF3ZW-2FxMrgw5bcvYI1T87gGNlkoaXZsv=
+JWOlAlR2tdyoCQAdMcNc61-2FO5Y9cL4-2Bo-2B1eatZGHf0MtAhx3E5PeNETTTObhHXI0AJlfW=
+lOV6P1MUAz8swF-2BsIZICJ1okapxd8Q8fFkn7JIzBBqsZ1VlTuQG36txKiVzUlBNSjJ7mYr2WD=
+YfhdkkSvf6uAnV4jB8QAzrQd1vtph4P9SqJXwuGwMbv92QjoL8uqTbXzCwAt80hOGWx-2BYnCvS=
+jlFATfUZ1DmNSbw-2FF8SMUzga2bPw96uhVlPcOJ7Ig-3D" target=3D"_blank"><img src=
+=3D"https://pennwell.box.com/shared/static/mzj6vnu6r1kwbu418tj8edw970m50cyg=
+.jpg" alt=3D"POWER-GRID International" width=3D"120" height=3D"21" border=
+=3D"0"></a></td>
+                  </tr>
+                    <tr>
+                    <td align=3D"center" colspan=3D"4" height=3D
+                                        "14" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 14px; font-weight: bold;"> </td>
+                  </tr>
+                    <tr style=3D
+                                    "background-color: #000; font-family: A=
+rial, Helvetica, sans-serif">
+                    <td align=3D"center" style=3D
+                                    "font-family: Arial, Helvetica, sans-se=
+rif"
+                                        width=3D"120"> </td>
+                    <td height=3D"24" colspan=3D"2" align=3D"center" valign=
+=3D"middle" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 12px; color: #FFF;">Supported by:</td>
+                    <td width=3D"120" align=3D"center" style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif"> </td>
+                  </tr>
+                    <tr style=3D
+                                    "background-color: #000; font-family: A=
+rial, Helvetica, sans-serif">
+                    <td width=3D"120" height=3D"14" align=3D"center" bgcolo=
+r=3D"#FFFFFF" style=3D
+                                    "font-size: 14px"> </td>
+                    <td width=3D"120" align=3D"center" bgcolor=3D"#FFFFFF" =
+style=3D
+                                        "font-size: 14px"> </td>
+                    <td width=3D"120" height=3D"14" align=3D"center" bgcolo=
+r=3D"#FFFFFF" style=3D
+                                        "font-size: 14px"> </td>
+                    <td width=3D"120" height=3D"14" align=3D"center" bgcolo=
+r=3D"#FFFFFF" style=3D
+                                        "font-size: 14px"> </td>
+                  </tr>
+                    <tr>
+                    <td width=3D"120" align=3D"center" valign=3D"middle"><a=
+ href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10440&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_new"></a> <a href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_blank"><img alt=3D"R=
+EW.com "
+                                            border=3D"0" height=3D"45" src=
+=3D
+                                            "https://pennwell.box.com/share=
+d/static/qvoiqpan28j6t6uz7lpi.jpg"
+                                            width=3D"100"></a></td>
+                    <td width=3D"120" align=3D"center" valign=3D"middle"><a=
+ href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_blank"><img alt=3D"C=
+OSPP" border=3D
+                                            "0" height=3D"41" src=3D
+                                            "https://pennwell.box.com/share=
+d/static/cxuhg5o2oya77vj7av6s.jpg"
+                                            width=3D"110"></a></td>
+                    <td width=3D"120" align=3D"center" valign=3D"middle"><a=
+ href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_blank"><img src=3D"h=
+ttps://pennwell.box.com/shared/static/kaxaoubglnjyiegejndu.jpg" alt=3D"Penn=
+Energy" width=3D"120" height=3D"26" border=3D"0"></a><a href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10440&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_new"></a></td>
+                    <td width=3D"120" align=3D"center" valign=3D"middle"><p=
+><a href=3D
+                                            "http://www.vibrantmedia.co.za/=
+r.php?clid=3D411&rsid=3D10435&mmail=3Dinfo@ughellipower.com"
+                                            target=3D"_blank"><img alt=3D"A=
+EA"
+                                            border=3D"0" height=3D"33" src=
+=3D
+                                            "https://pennwell.box.com/share=
+d/static/wt6adkd81r9rwnhmo2vvwtdos4uc4v3h.jpg"
+                                            width=3D"115"></a></p></td>
+                  </tr>
+                    <tr style=3D
+                                    "font-family: Arial, Helvetica, sans-se=
+rif">
+                    <td align=3D"center" colspan=3D"4" height=3D"20"
+                                        style=3D
+                                        "font-family: Arial, Helvetica, san=
+s-serif; font-size: 11px; font-weight: bold;">To unsubscribe to this e-news=
+letter, e-mail <a href=3D"mailto:lindi@tradeprojects.co.za?subject=3DPlease=
+ unsubscribe me" target=3D"_blank">lindi@tradeprojects.co.za</a></td>
+                  </tr>
+                  </table></td>
+              </tr>
+          </table>
+        </div></td>
+      </tr>
+    </table>
+    <map name=3D"Map">
+      <area shape=3D"poly" coords=3D"99,61" href=3D"#">
+    </map>
+
+<img src=3D"http://email.vmdigital.co.za/wf/open?upn=3DqjRJ2VNrqhx1KLdB9OJy=
+DH71U6BJEToBLiVN1OnKNCHsYslzLLzltA5Zi4jOVc1nOq0NIYPJOZnNr3mja8MjSbi8wSYjp3n=
+KccDbBvQN6KzuSAbkODMbcq3U8vFeDS0ncN3gXuIEypyJHRHUv9OAUGwAA38K-2FXWEs3aHqv-2=
+Fb96rqvzfTlxe277K-2BWNN342UpYhISEwAZ0248qZH5qWhDtxUEnul1OsBztexC3XSnUAiszpd=
+hdfxsG2TP6wx9-2F8cBkxSwiyzBdHY6cyscWiY2CsvowZN7-2BrGB97zb64R0508nfquCE14RKC=
+2k3Z1u7CcRIWWheTZfSYYLOBeXQ6wjeycWo7nyg28aZ9O9xe3xPx8nFOC31niZPVNC0I9Bt8Iaz=
+4YMNjkvFBCNc7DXco-2FF-2Bu0Yw5MYCKPiyFryMH9z0aJj2lHNCuyLu4ou3QQqArreyp0e9haQ=
+tGu-2Bbt7fnWCGkJ1gvkW13o-2BuzqmUr7M0-2FEU-3D" alt=3D"" width=3D"1" height=
+=3D"1" border=3D"0" style=3D"height:1px !important;width:1px !important;bor=
+der-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;m=
+argin-right:0 !important;margin-left:0 !important;padding-top:0 !important;=
+padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !impo=
+rtant;"/>
+</body>
+<img src=3D"http://www.vibrantmedia.co.za/spike/?mailerid=3D3178&email=3Din=
+fo@ughellipower.com&refference=3D[REFERENCES],sendgrid">
+</html>
+
+--===============5888229254605383462==--

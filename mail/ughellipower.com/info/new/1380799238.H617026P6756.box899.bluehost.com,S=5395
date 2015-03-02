@@ -1,0 +1,109 @@
+Return-path: <notification+zj4y2sf2z426@facebookmail.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Thu, 03 Oct 2013 05:20:38 -0600
+Received: from [66.220.155.136] (port=55717 helo=mx-out.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.80)
+	(envelope-from <notification+zj4y2sf2z426@facebookmail.com>)
+	id 1VRgxS-0001ju-D0
+	for info@ughellipower.com; Thu, 03 Oct 2013 05:20:38 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1380799237;
+	bh=veEB8KUjSOJKHP6yvOvl7N28eYTkpKIDOIObtPxd+lA=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=bc9GEvAsKWm636T1gvhzJ3+RF0IifdULkxHdipTYmliKkIl6cJc/XoYrIuPoVRi3J
+	 Wp6gLacJm2PAM2kiScThl8XTg6dGO9YKBYpYXEId9KwtEkrMKPj2jLvQ7BBAybQJ54
+	 Jj/pyzNmomzSZWpID1TT4WUcp2LKpxAIyrKP6SYo=
+Received: from [10.177.124.85] ([10.177.124.85:48024])
+	by smout047.ash4.facebook.com (envelope-from <notification+zj4y2sf2z426@facebookmail.com>)
+	(ecelerity 3.6.0.39694 r(Platform:3.6.0.0)) with ECSTREAM
+	id 93/16-17042-5035D425; Thu, 03 Oct 2013 04:20:37 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Thu, 3 Oct 2013 04:20:37 -0700
+To: Ughelli Power Plc <info@ughellipower.com>
+From: "Facebook" <notification+zj4y2sf2z426@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: A mobile phone number has been removed from your profile
+Message-ID: <dbc9be035d5b42056454cc7014237a63@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4y2sf2z426@facebookmail.com
+X-Facebook-Notify: mobile_profile_phone_removed; mailid=8b75033G5af466cc43d0G0Ge6
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+Require-Recipient-Valid-Since: info@ughellipower.com; Thursday, 25 Apr 2013 06:26:05 -0700
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_dbc9be035d5b42056454cc7014237a63"
+
+
+--b1_dbc9be035d5b42056454cc7014237a63
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ughelli,
+
+The phone number 2348037061330 has been deleted from your profile due to =
+the following reason: the mobile phone number is registered and verified =
+by another Facebook user. If you changed your mobile number or switched =
+mobile service providers, please visit Facebook to add your number again.
+
+Thanks,
+The Facebook Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to info@ughellipower.com at your request.
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_dbc9be035d5b42056454cc7014237a63
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><title>Facebook</title></head><body style=3D"margin: 0; =
+padding: 0;" dir=3D"ltr"><table width=3D"98%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"40"><tr><td bgcolor=3D"#f7f7f7" =
+width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"620"><tr><td style=3D"background:#=
+3b5998;color:#FFFFFF;font-weight:bold;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px =
+8px; font-size: 16px; letter-spacing: -0.03em; text-align: =
+left;">facebook</td><td style=3D"background:#3b5998;color:#FFFFFF;font-wei=
+ght:bold;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px =
+8px;font-size: 11px; text-align: right;"></td></tr><tr><td colspan=3D"2" =
+style=3D"background-color: #FFFFFF; border-bottom: 1px solid #3b5998; =
+border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; padding: =
+15px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;" =
+valign=3D"top"><table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td width=3D"100%" style=3D"font-size:12px;" =
+valign=3D"top" align=3D"left"><div style=3D"margin-bottom:15px; =
+font-size:12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;">Hi Ughelli,</div><div =
+style=3D"margin-bottom:15px;"></div><div style=3D"margin-bottom:15px;">The =
+phone number 2348037061330 has been deleted from your profile due to the =
+following reason: the mobile phone number is registered and verified by =
+another Facebook user. If you changed your mobile number or switched =
+mobile service providers, please visit Facebook to add your number =
+again.</div><div style=3D"margin-bottom:15px;"></div><div =
+style=3D"margin-bottom:15px; font-size:12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;margin: 0;">Thanks,<br />
+The Facebook Team</div></td></tr></table></td></tr><tr><td colspan=3D"2" =
+style=3D"color:#999999;padding:10px;font-size:12px; font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;">This message was sent to =
+info@ughellipower.com at your request.
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table></td></tr></table></body></html><span =
+style=3D""><img src=3D"https://www.facebook.com/email_open_log_pic.php?mid=
+=3D8b75033G5af466cc43d0G0Ge6" style=3D"border:0;width:1px;height:1px;" =
+/></span>
+
+
+
+--b1_dbc9be035d5b42056454cc7014237a63--
+

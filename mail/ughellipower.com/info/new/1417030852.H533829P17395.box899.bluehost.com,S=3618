@@ -1,0 +1,66 @@
+Return-path: <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Wed, 26 Nov 2014 12:40:52 -0700
+Received: from [66.220.157.78] (port=19628 helo=smtpin.mx.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.82)
+	(envelope-from <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>)
+	id 1XtiSK-0004T1-A2
+	for info@ughellipower.com; Wed, 26 Nov 2014 12:40:52 -0700
+DKIM-Signature: v=1; a=rsa-sha256; d=fwd.facebook.com; s=s1024-2014-q3; c=relaxed/simple;
+	q=dns/txt; i=@fwd.facebook.com; t=1417030849;
+	h=From:Subject:X-:Date:To:MIME-Version:Content-Type:Authentication-Results;
+	bh=a4znEaYiJDYG+naj5R0B96ApyoscKu21+xw6kd21uS0=;
+	b=gMIYLgi5A7klWgL6PpBBASYoNaJxkMd4iOGdWlg95pc5E7aqkTGIIVIER3K2I+2y
+	eN78J418d1PhQI5hdB5X7HayJLdSnTRDuvtQ51gXgZ0PD7/hLe41QWT2oTPskCr7
+	fIGp3X2ySurqCE62vV+XyQuqykECJT03lnTr+NPzRS0=;
+X-Original-To: ughelli.powerplc@facebook.com
+Authentication-Results:  smtpin.mx.facebook.com x-tls.subject="/C=US/ST=California/L=Mountain View/O=Google Inc/CN=smtp.gmail.com"; auth=pass (cipher=DHE-RSA-AES128-SHA)
+Authentication-Results: smtpin.mx.facebook.com; spf=pass smtp.mailfrom=gmail.com
+Received-SPF: pass (smtpin.mx.facebook.com: domain gmail.com designates 209.85.216.196 as permitted sender)
+Authentication-Results: smtpin.mx.facebook.com; dkim=pass header.d=gmail.com
+Received: from [209.85.216.196] ([209.85.216.196:33040] helo=mail-qc0-f196.google.com)
+	by 10.223.77.77 (envelope-from <purchas.purchas18@gmail.com>)
+	(ecelerity 2.2.3.50 r(45166/45167)) with ESMTPS (cipher=DHE-RSA-AES128-SHA
+	subject="/C=US/ST=California/L=Mountain View/O=Google Inc/CN=smtp.gmail.com") 
+	id CA/76-27746-DBC26745; Wed, 26 Nov 2014 11:40:45 -0800
+Received: by mail-qc0-f196.google.com with SMTP id r5so413752qcx.11
+        for <ughelli.powerplc@facebook.com>; Wed, 26 Nov 2014 11:40:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:message-id:subject:from:to:content-type;
+        bh=a4znEaYiJDYG+naj5R0B96ApyoscKu21+xw6kd21uS0=;
+        b=jkFd0kP9kgf8i5Jm1bbFAevfPc/utcw4COC+J+YNpEw0ebSR1kSE3Wehnoz/jZWjoP
+         NXyMziJVZriVq2ZiglvYmRiwJRIWxQVyvIrD9q04PwUVK955EQE3q3KeIjVEYDrWVfbO
+         /RKGWYdWGBGkVKewRHdDv0bUeWxU6xRTtuOriI6WThpJRCf3LxcNaw17np9f2Wt7ynzD
+         fM3AKDDqz8hQV/15RSdEC+Oe7DfauDB7RXNwfTFe/WyNH2EaqCAM79+Mu3QC1NyQtlP0
+         mNpUx7uMvMJdThri9nF6NWcpGQ95bR6SztdVRG3jmhQo2WZ1DneUpw6a48EPrqHjgiWJ
+         2JHA==
+MIME-Version: 1.0
+X-Received: by 10.224.94.9 with SMTP id x9mr33228260qam.45.1417030845476; Wed,
+ 26 Nov 2014 11:40:45 -0800 (PST)
+Sender: purchas.purchas18@gmail.com
+Received: by 10.229.172.199 with HTTP; Wed, 26 Nov 2014 11:40:45 -0800 (PST)
+Date: Wed, 26 Nov 2014 19:40:45 +0000
+X-Google-Sender-Auth: izSlo5Z180uPb19GeRquMjRjPqM
+Message-ID: <CAGZ86Pz_opsxTYKkNRKK8E37FcH9xiMyVvGjs-pjwQzmTt5VoA@mail.gmail.com>
+Subject: Hello,
+From: Glad Evans <gladevans77@hotmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=047d7b673a842e3aa10508c83428
+Bcc: ughelli.powerplc@facebook.com
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+--047d7b673a842e3aa10508c83428
+Content-Type: text/plain; charset=UTF-8
+
+Hello,
+
+I want us to be lovely friends because life is good when you have awesome
+friends around you. Thanks.
+
+--047d7b673a842e3aa10508c83428
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">Hello,<br><br>I want us to be lovely friends because life is good when you have awesome friends around you. Thanks.<br></div>
+
+--047d7b673a842e3aa10508c83428--

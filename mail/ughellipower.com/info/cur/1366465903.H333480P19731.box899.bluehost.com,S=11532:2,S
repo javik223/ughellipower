@@ -1,0 +1,215 @@
+Return-path: <update+zj4y2sf2z426@facebookmail.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Sat, 20 Apr 2013 07:51:43 -0600
+Received: from [69.171.232.172] (port=65022 helo=mx-out.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.80)
+	(envelope-from <update+zj4y2sf2z426@facebookmail.com>)
+	id 1UTYCc-00057f-Q3
+	for info@ughellipower.com; Sat, 20 Apr 2013 07:51:42 -0600
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1366465902;
+	bh=w+tMBU5Hf55a4qgjzKxyT9PvJ8OlucnZZPN7VV1teQ0=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=cDokwclpCPV1aEsFfG1/H9FSNATXyOwfy911AmtCD5e6o2DKLc2ypwKLh9ZNenTYS
+	 E04Is9MwNL7fdXvZ2E4k4XteEjX2Zz8SmQdmJNUEPb+PSlGuLhnBTC11ZKKo9tqmG5
+	 2tjQHbj9ukIsW7qkLve3nIP6PT3xCMWZw4P4gnso=
+Received: from [10.150.83.40] ([10.150.83.40:48804])
+	by smout051.snc7.facebook.com (envelope-from <update+zj4y2sf2z426@facebookmail.com>)
+	(ecelerity 3.5.1.37927 r(/root/Momo-dev:tip)) with ECSTREAM
+	id 5E/74-12731-E6D92715; Sat, 20 Apr 2013 06:51:42 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Sat, 20 Apr 2013 06:51:42 -0700
+To: Plc Ughelli Power <info@ughellipower.com>
+From: "Facebook" <update+zj4y2sf2z426@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: Welcome to Facebook - get started now!
+Message-ID: <85e1eff5ebd374ab4bd97e18495e178b@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: update+zj4y2sf2z426@facebookmail.com
+X-Facebook-Notify: welcome_email; mailid=7dc9a9aG5af466cc43d0G0G4b
+X-Facebook-Unconfirmed: 1
+X-FACEBOOK-PRIORITY: 1
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_85e1eff5ebd374ab4bd97e18495e178b"
+
+
+--b1_85e1eff5ebd374ab4bd97e18495e178b
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+To log in to Facebook, follow the link below:
+http://www.facebook.com/n/?find-friends%2F&mid=3D7dc9a9aG5af466cc43d0G0G4b=
+&bcode=3D1.1366465902.AbnLIDIZJulZFj6I&code=3D551003&n_m=3Dinfo%40ughellip=
+ower.com
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Plc,
+
+Your account has been created =E2=80=94 now it will be easier than ever to =
+share and connect with your friends.
+
+Here are three ways for you to get the most out of it:
+
+1. Find Friends
+Find people you know on Facebook using our simple tools.
+http://www.facebook.com/n/?find-friends%2F&mid=3D7dc9a9aG5af466cc43d0G0G4b=
+&bcode=3D1.1366465902.AbnLIDIZJulZFj6I&code=3D551003&n_m=3Dinfo%40ughellip=
+ower.com
+
+2. Upload a Profile Photo
+Personalize your profile and help your friends recognize you.
+http://www.facebook.com/n/?profile.php&mid=3D7dc9a9aG5af466cc43d0G0G4b&bco=
+de=3D1.1366465902.AbnLIDIZJulZFj6I&code=3D551003&n_m=3Dinfo%40ughellipower=
+.com
+
+3. Edit Your Profile
+Describe personal interests, contact information, and affiliations.
+http://www.facebook.com/n/?profile.php&v=3Dinfo&edit_info=3Dall&mid=3D7dc9=
+a9aG5af466cc43d0G0G4b&bcode=3D1.1366465902.AbnLIDIZJulZFj6I&code=3D551003&=
+n_m=3Dinfo%40ughellipower.com
+
+If you have any questions, reference our New User Guide:
+http://www.facebook.com/n/?help%2Fnew_user_guide.php&mid=3D7dc9a9aG5af466c=
+c43d0G0G4b&bcode=3D1.1366465902.AbnLIDIZJulZFj6I&code=3D551003&n_m=3Dinfo%=
+40ughellipower.com
+
+Thanks,
+The Facebook Team
+
+Didn&#039;t sign up for Facebook? Please let us know:
+http://www.facebook.com/confirmemail.php?e=3Dinfo%40ughellipower.com&amp;c=
+=3D551003&amp;report=3D1
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to info@ughellipower.com at your request.
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_85e1eff5ebd374ab4bd97e18495e178b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><title>Facebook</title></head><body style=3D"margin: 0; =
+padding: 0;" dir=3D"ltr"><table width=3D"98%" border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"40"><tr><td bgcolor=3D"#f7f7f7" =
+width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"620"><tr><td style=3D"background:#=
+3b5998;color:#FFFFFF;font-weight:bold;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px =
+8px; font-size: 16px; letter-spacing: -0.03em; text-align: left;"><a =
+style=3D"color:#FFFFFF; text-decoration: none;" href=3D"http://www.faceboo=
+k.com/n/?find-friends%2F&amp;mid=3D7dc9a9aG5af466cc43d0G0G4b&amp;bcode=3D1=
+.1366465902.AbnLIDIZJulZFj6I&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipow=
+er.com"><span style=3D"color:#FFFFFF">facebook</span></a></td><td =
+style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:'lu=
+cida =
+grande',tahoma,verdana,arial,sans-serif;vertical-align:middle;padding:4px =
+8px;font-size: 11px; text-align: right;"></td></tr><tr><td colspan=3D"2" =
+style=3D"background-color: #FFFFFF; border-bottom: 1px solid #3b5998; =
+border-left: 1px solid #CCCCCC; border-right: 1px solid #CCCCCC; padding: =
+15px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;" =
+valign=3D"top"><table width=3D"100%" cellpadding=3D"0" =
+cellspacing=3D"0"><tr><td width=3D"470" style=3D"font-size:12px;" =
+valign=3D"top" align=3D"left"><div style=3D"margin-bottom:15px; =
+font-size:12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;">Hi Plc,</div><div =
+style=3D"margin-bottom:15px;">Your account has been created =E2=80=94 now =
+it will be easier than ever to share and connect with your =
+friends.</div><div style=3D"margin-bottom:15px;"><div =
+style=3D"font-weight: bold; margin-bottom: 15px;">Here are three ways for =
+you to get the most out of it:</div><table><tr><td valign=3D"top" =
+style=3D"padding-right: 15px;"><a href=3D"http://www.facebook.com/n/?find-=
+friends%2F&amp;mid=3D7dc9a9aG5af466cc43d0G0G4b&amp;bcode=3D1.1366465902.Ab=
+nLIDIZJulZFj6I&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"http://static.ak.fbcdn.net/rsrc.php/v2/yP/r/TgR7WGzB2KD.gif" =
+/></a></td><td valign=3D"top" style=3D"font-size: 12px; padding: 3px 0 =
+15px 0;"><div><a href=3D"http://www.facebook.com/n/?find-friends%2F&amp;mi=
+d=3D7dc9a9aG5af466cc43d0G0G4b&amp;bcode=3D1.1366465902.AbnLIDIZJulZFj6I&am=
+p;code=3D551003&amp;n_m=3Dinfo%40ughellipower.com" style=3D"color:#3b5998;=
+text-decoration:none;display:block;font-weight:bold;">Find =
+Friends</a></div>Find people you know on Facebook using our simple =
+tools.</td></tr><tr><td valign=3D"top" style=3D"padding-right: 15px;"><a =
+href=3D"http://www.facebook.com/n/?profile.php&amp;mid=3D7dc9a9aG5af466cc4=
+3d0G0G4b&amp;bcode=3D1.1366465902.AbnLIDIZJulZFj6I&amp;code=3D551003&amp;n=
+_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"http://static.ak.fbcdn.net/rsrc.php/v2/yN/r/Btw6qZ0ihGS.gif" =
+/></a></td><td valign=3D"top" style=3D"font-size: 12px; padding: 3px 0 =
+15px 0;"><div><a href=3D"http://www.facebook.com/n/?profile.php&amp;mid=3D=
+7dc9a9aG5af466cc43d0G0G4b&amp;bcode=3D1.1366465902.AbnLIDIZJulZFj6I&amp;co=
+de=3D551003&amp;n_m=3Dinfo%40ughellipower.com" style=3D"color:#3b5998;text=
+-decoration:none;display:block;font-weight:bold;">Upload a Profile =
+Photo</a></div>Personalize your profile and help your friends recognize =
+you.</td></tr><tr><td valign=3D"top" style=3D"padding-right: 15px;"><a =
+href=3D"http://www.facebook.com/n/?profile.php&amp;v=3Dinfo&amp;edit_info=
+=3Dall&amp;mid=3D7dc9a9aG5af466cc43d0G0G4b&amp;bcode=3D1.1366465902.AbnLID=
+IZJulZFj6I&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"http://static.ak.fbcdn.net/rsrc.php/v2/y-/r/oXpwcGCi58A.gif" =
+/></a></td><td valign=3D"top" style=3D"font-size: 12px; padding: 3px 0 0 =
+0;"><div><a href=3D"http://www.facebook.com/n/?profile.php&amp;v=3Dinfo&am=
+p;edit_info=3Dall&amp;mid=3D7dc9a9aG5af466cc43d0G0G4b&amp;bcode=3D1.136646=
+5902.AbnLIDIZJulZFj6I&amp;code=3D551003&amp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;display:block;font-weight:bold=
+;">Edit Your Profile</a></div>Describe personal interests, contact =
+information, and affiliations.</td></tr></table><div style=3D"margin: 15px =
+0;">If you have any questions, reference our <a href=3D"http://www.faceboo=
+k.com/n/?help%2Fnew_user_guide.php&amp;mid=3D7dc9a9aG5af466cc43d0G0G4b&amp=
+;bcode=3D1.1366465902.AbnLIDIZJulZFj6I&amp;code=3D551003&amp;n_m=3Dinfo%40=
+ughellipower.com" style=3D"color:#3b5998;text-decoration:none;">New User =
+Guide</a>.</div></div><div style=3D"margin-bottom:15px;"></div><div =
+style=3D"margin-bottom:15px; font-size:12px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;margin: 0;">Thanks,<br />
+The Facebook Team</div></td><td valign=3D"top" width=3D"150" =
+style=3D"padding-left: 15px;" align=3D"left"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:10px;background-color:#fff9d7;border-left:1px solid =
+#e2c822;border-right:1px solid #e2c822;border-top:1px solid =
+#e2c822;border-bottom:1px solid #e2c822;"><div style=3D"margin-bottom: =
+15px; font-size: 12px;">Sign in to Facebook and start =
+connecting</div><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #3b6e22 #3b6e22 =
+#2c5115;background-color: #69a74e;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #95bf82;"><a =
+href=3D"http://www.facebook.com/n/?find-friends%2F&amp;mid=3D7dc9a9aG5af46=
+6cc43d0G0G4b&amp;bcode=3D1.1366465902.AbnLIDIZJulZFj6I&amp;code=3D551003&a=
+mp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #fff;font-size: =
+13px;">Get Started</span></a></td></tr></table></td></tr></table></td></tr=
+></table></td></tr></table></td></tr><tr><td colspan=3D"2" =
+style=3D"color:#999999;padding:10px;font-size:12px; font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;">Didn&#039;t sign up for =
+Facebook? <a href=3D"http://www.facebook.com/confirmemail.php?e=3Dinfo%40u=
+ghellipower.com&amp;c=3D551003&amp;report=3D1" =
+style=3D"color:#3b5998;text-decoration:none;">Please let us know.</a> This =
+message was sent to <a href=3D"mailto:info&#064;ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;">info&#064;ughellipower.com</=
+a> at your request.<br />Facebook, Inc., Attention: Department 415, PO Box =
+10005, Palo Alto, CA =
+94303</td></tr></table></td></tr></table></body></html><span =
+style=3D""><img src=3D"http://www.facebook.com/email_open_log_pic.php?c=3D=
+551003&amp;mid=3D7dc9a9aG5af466cc43d0G0G4b" =
+style=3D"border:0;width:1px;height:1px;" /></span>
+
+
+
+--b1_85e1eff5ebd374ab4bd97e18495e178b--
+

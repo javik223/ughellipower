@@ -1,0 +1,153 @@
+Return-path: <notification+zj4y2sf2z426@facebookmail.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Fri, 28 Feb 2014 21:24:38 -0700
+Received: from [66.220.144.157] (port=39102 helo=mx-out.facebook.com)
+	by box899.bluehost.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <notification+zj4y2sf2z426@facebookmail.com>)
+	id 1WJbTa-0001nE-AS
+	for info@ughellipower.com; Fri, 28 Feb 2014 21:24:38 -0700
+Received: from facebook.com (nvibBA1TbcAUlIqrIu/oHpHx+jWyrfPeltmPgkj74eWPm+e7wOLZm7WX5koDJjfy 10.212.236.71)
+ by facebook.com with Thrift id 64f9bfbca0f911e3b8dc0002c95069ee-5e6fbf10;
+ Fri, 28 Feb 2014 20:24:35 -0800
+X-Facebook: from 2401:db00:2130:70ad:face:0:4f:0 ([MTI3LjAuMC4x]) 
+	by api.facebook.com with HTTP (ZuckMail);
+Date: Fri, 28 Feb 2014 20:24:35 -0800
+To: Ughelli Power Plc <info@ughellipower.com>
+From: "Facebook" <notification+zj4y2sf2z426@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: Confirming your phone number on Facebook
+Message-ID: <5591579aa54fcb0d446a5c35dd191cd7@api.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4y2sf2z426@facebookmail.com
+X-Facebook-Notify: phone_number_change; mailid=97b5e30G5af466cc43d0G0G179G53879748
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5591579aa54fcb0d446a5c35dd191cd7"
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2013-q3; t=1393647875;
+	bh=3+SBQgoeScbxWph5kJBIP13mglj9QJAB/d1uVDvddz4=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=nJInDR7yioDVU1XXBnS8FVB0570doyKGInRO1NLv5FO2AdrxzTZIy0TPQGHCU0AWt
+	 3ymTyU8AIAnWuK3xUL6Yf5hrvlMdpH7va0r9T+Kx9fAGqDrbuNFIy4q0vvemWkR0CO
+	 jE0hQcpWRYM7vNKbrBZ1LE7w4giB3CpwGCIrxkd4=
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+
+--b1_5591579aa54fcb0d446a5c35dd191cd7
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ughelli,
+
+The phone number 0808 569 2124 was removed from your account.
+
+If you didn't remove this number, please secure your account.
+
+[https://www.facebook.com/n/?ughelli.powerplc&medium=3Demail&mid=3D97b5e30=
+G5af466cc43d0G0G179G53879748&bcode=3D1.1393647875.AbnMqY3Y2TuN3wfB&n_m=3Di=
+nfo%40ughellipower.com]=20
+
+Thanks,
+The Facebook Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to info@ughellipower.com at your request.
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_5591579aa54fcb0d446a5c35dd191cd7
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"https://www.facebook.co=
+m/hacked/disavow?u=3D100005743182800&amp;n=3DF2X070Pk"><span =
+style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#0=
+39;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;width:620px;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:=
+none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"top" style=3D"font-size:11px;font-family:LucidaGrande,tahoma,ver=
+dana,arial,sans-serif;padding-right:15px;text-align:left;"><a =
+href=3D"https://www.facebook.com/n/?ughelli.powerplc&amp;medium=3Demail&am=
+p;mid=3D97b5e30G5af466cc43d0G0G179G53879748&amp;bcode=3D1.1393647875.AbnMq=
+Y3Y2TuN3wfB&amp;n_m=3Dinfo%40ughellipower.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbcdn-pr=
+ofile-a.akamaihd.net/hprofile-ak-prn1/t5/368503_100005743182800_314064967_=
+q.jpg" style=3D"border:0;" /></a></td><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;width:100%;text-align:left;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:5px;"><span style=3D"color:#333333;">Hi =
+Ughelli,</span></td></tr><tr><td style=3D"font-size:11px;font-family:Lucid=
+aGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px=
+;"><span style=3D"color:#333333;">The phone number <strong><span =
+dir=3D"ltr">0808 569 2124</span></strong> was removed from your =
+account.</span></td></tr><tr><td style=3D"font-size:11px;font-family:Lucid=
+aGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;padding-bottom:5px=
+;"><span style=3D"color:#333333;"><div>If you didn&#039;t remove this =
+number, please <a href=3D"https://www.facebook.com/hacked/disavow?u=3D1000=
+05743182800&amp;n=3DF2X070Pk"><span =
+style=3D"color:#333333;font-weight:bold;">secure your =
+account</span></a>.</div></span></td></tr><tr><td style=3D"font-size:11px;=
+font-family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:5px;"=
+><span style=3D"color:#333333;"><div>Thanks,<br />The Facebook Security =
+Team</div></span></td></tr></table></td></tr></table></td></tr></table></t=
+d></tr><tr><td style=3D"font-size:11px;font-family:LucidaGrande,tahoma,ver=
+dana,arial,sans-serif;padding:0px;width:620px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" border=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0;background-co=
+lor:#fff;border-left:none;border-right:none;border-top:1px solid =
+#ccc;border-bottom:none;"></td></tr></table></td></tr></table></td></tr></=
+table><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, =
+verdana, arial, sans-serif;padding:30px 20px;background-color:#fff;border-=
+left:none;border-right:none;border-top:none;border-bottom:none;color:#9999=
+99;border:none;">This message was sent to <a =
+href=3D"mailto:info&#064;ughellipower.com" style=3D"color:#3b5998;text-dec=
+oration:none;">info&#064;ughellipower.com</a> at your request.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table><span style=3D"width:620px;"><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?mid=3D97b5e30G5af46=
+6cc43d0G0G179G53879748" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_5591579aa54fcb0d446a5c35dd191cd7--
+

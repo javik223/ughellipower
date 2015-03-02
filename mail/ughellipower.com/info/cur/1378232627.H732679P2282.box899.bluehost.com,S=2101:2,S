@@ -1,0 +1,48 @@
+Return-path: <ughellipower2011@gmail.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Tue, 03 Sep 2013 12:23:47 -0600
+Received: from [209.85.217.179] (port=56707 helo=mail-lb0-f179.google.com)
+	by box899.bluehost.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.80)
+	(envelope-from <ughellipower2011@gmail.com>)
+	id 1VGvGV-0000Y2-6s
+	for info@ughellipower.com; Tue, 03 Sep 2013 12:23:47 -0600
+Received: by mail-lb0-f179.google.com with SMTP id x18so5296936lbi.38
+        for <info@ughellipower.com>; Tue, 03 Sep 2013 11:23:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=OCFX4RcpT/id4R8YpQSgRLvMfMTSudxR5lvkNOR2rdM=;
+        b=tmcx7jdu1Df773LLc/CZbMnHoA2FJzByDfNzEMFeYfoivd+DfALon1JgJ3TkCChE12
+         EPBaKzFgHe85ZVysc4gxRdfDyYhzVdGHycDWwr9lS7k+O26r63JacHAVdqj0YFPmC+2y
+         QooC315fp0XnYi3JI14D3tD4aGvwI7skSk1tYTsj+8sQoQmnL4OC3VSG06t6zR0cmHBs
+         WROa1km4Ay7rNQw9liWIxkCNX5WOxf93fTH1vW9r7CCBd+yPfQAliidgnFGtlK4+AhW1
+         eLXH4NleRIaQEAy7PGQakj1294vcOK8csH0XO6z5J0+Xnmn1v6J0hFTAHj4EixEz7IV/
+         pY8w==
+X-Received: by 10.152.3.42 with SMTP id 10mr27920459laz.22.1378232624689; Tue,
+ 03 Sep 2013 11:23:44 -0700 (PDT)
+MIME-Version: 1.0
+From: Okey Udeh <ughellipower2011@gmail.com>
+Date: Tue, 3 Sep 2013 19:23:37 +0100
+Message-ID: <-8904283342902881663@unknownmsgid>
+Subject: Testing
+To: "Anozie N.O." <noacanozie@yahoo.co.uk>, "n.anozie@gmail.com" <n.anozie@gmail.com>, 
+	Ughelli Power Plc <info@ughellipower.com>
+Content-Type: multipart/alternative; boundary=089e013d14b203354604e57eca39
+
+--089e013d14b203354604e57eca39
+Content-Type: text/plain; charset=ISO-8859-1
+
+Testing
+Sent from my Windows Phone
+
+--089e013d14b203354604e57eca39
+Content-Type: text/html; charset=ISO-8859-1
+
+<html><head>
+<meta content="text/html; charset=windows-1252" http-equiv="Content-Type"></head>
+<body>
+<div>
+<div style="FONT-SIZE:11pt;FONT-FAMILY:Calibri,sans-serif"><br>Testing<br>Sent from my Windows Phone</div></div></body></html>
+
+--089e013d14b203354604e57eca39--

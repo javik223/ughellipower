@@ -1,0 +1,53 @@
+Return-path: <engrajaye@yahoo.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Sat, 20 Apr 2013 09:54:55 -0600
+Received: from [77.238.189.77] (port=29589 helo=nm20.bullet.mail.ird.yahoo.com)
+	by box899.bluehost.com with smtp (Exim 4.80)
+	(envelope-from <engrajaye@yahoo.com>)
+	id 1UTa7q-0001RG-VU
+	for info@ughellipower.com; Sat, 20 Apr 2013 09:54:55 -0600
+Received: from [77.238.189.50] by nm20.bullet.mail.ird.yahoo.com with NNFMP; 20 Apr 2013 15:54:52 -0000
+Received: from [212.82.98.111] by tm3.bullet.mail.ird.yahoo.com with NNFMP; 20 Apr 2013 15:54:52 -0000
+Received: from [127.0.0.1] by omp1048.mail.ir2.yahoo.com with NNFMP; 20 Apr 2013 15:54:52 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 754587.15838.bm@omp1048.mail.ir2.yahoo.com
+Received: (qmail 25001 invoked by uid 60001); 20 Apr 2013 15:54:52 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1366473292; bh=VLOSU+NjXTJRcnnc42fzASc8rLQDQa9BUO6omZ3XTsY=; h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=z02v+WA0M89Fsis+Qk0Y7VKyTCAIwZtn+cQeVATgQ3TMXrAKPqbXhxR9qAjxtha96LCrhStvgs4wRP7+HJkvpUXlf9ruGxXrZ9EOPVy86JGquDiZLBTz9tMwA3pFOnX6hdM1wYyRAcO/GDmWqaN14JAmip5gFL2Z0MgbIEREvF8=
+DomainKey-Signature:a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=yahoo.com;
+  h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=EO3fYsXzOuvQdvmxTI1thLpxeIMGqKYIqR6D4wjbtGoLYA9U56is3Llz0KabVoQwRhFMR2AverN28ixfXNFWA2Ye1dl0N1yw9KtkmNoDEGTtUO++bdACbRQUlG0BVoTR7EZc8sL8TksMQuK9lq2ANpajg6awqwMCjQ3RM00DseA=;
+X-YMail-OSG: _BWo6UAVM1npt2AwH1c5gb9koG5M4hvBM.Ld62_kPWfuK7J
+ CfyVVHUZOO5JXdUvwyf8ILuG3sasPQffEGschqBDuOomFagNF4vMlHsI2cQR
+ Q7A2OIZpso9y8ZZ_9mQcp34F45st8Hr9235Cpf6TaCaoUzgVATW6f0.C.R2X
+ GUixSj82CPwzkUItxcuTNgxTQk86pcIQw9V1rLdOU066WqlEkEGMoNcSG.uk
+ Yqp25Tc7L8WQd5jffHsnBGjt23jPwyBqDshWGxWOz87..eh1QtBcTKVTgHuO
+ lo9_DwPyxvkzlI25aKiKIrpZTXcAIsycb61tdqQxoDhidqapJOKZvuXEPoqw
+ gFB8i.4TJB3HO.35Uzsw1J8j21sBWCNxciUT6Vtf_m7i7AWhL7z6Y7vW9WBC
+ eq2KM3FG40nZnKG127G7nnjWiSxCeNthRUqHrZ5K9.2S5Qbu8Z2deb9gsbgK
+ XyJmhdC8OSYa3Yqp2G9jt6kFhiXVh0HcA7Zs-
+Received: from [41.203.67.51] by web28905.mail.ir2.yahoo.com via HTTP; Sat, 20 Apr 2013 16:54:52 BST
+X-Rocket-MIMEInfo: 002.001,VEVTVElORywgVEVTVElORywgVEVTVElORwoKU2VudCBmcm9tIFlhaG9vISBNYWlsIG9uIEFuZHJvaWQKCgEwAQEBAQ--
+X-Mailer: YahooMailWebService/0.8.141.536
+Message-ID: <1366473292.87028.androidMobile@web28905.mail.ir2.yahoo.com>
+Date: Sat, 20 Apr 2013 16:54:52 +0100 (BST)
+From: Patrick Ajaye <engrajaye@yahoo.com>
+Reply-To: engrajaye@yahoo.com
+Subject: TESTING MAIL
+To: "info@ughellipower com" <info@ughellipower.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="-1732997280-654663618-1366473292=:87028"
+
+---1732997280-654663618-1366473292=:87028
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+TESTING, TESTING, TESTING=0A=0ASent from Yahoo! Mail on Android=0A=0A
+---1732997280-654663618-1366473292=:87028
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tr><td valign=3D"t=
+op"><p>TESTING, TESTING, TESTING</p>=0A<p>Sent from Yahoo! Mail on Android<=
+/p>=0A</td></tr></table>
+---1732997280-654663618-1366473292=:87028--

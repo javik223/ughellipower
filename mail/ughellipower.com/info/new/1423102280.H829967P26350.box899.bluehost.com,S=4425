@@ -1,0 +1,66 @@
+Return-path: <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Wed, 04 Feb 2015 19:11:20 -0700
+Received: from [66.220.157.70] (port=57574 helo=smtpin.mx.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.82)
+	(envelope-from <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>)
+	id 1YJBua-0006nI-HL
+	for info@ughellipower.com; Wed, 04 Feb 2015 19:11:20 -0700
+DKIM-Signature: v=1; a=rsa-sha256; d=fwd.facebook.com; s=s1024-2014-q3; c=relaxed/simple;
+	q=dns/txt; i=@fwd.facebook.com; t=1423102277;
+	h=From:Subject:X-:Date:To:MIME-Version:Content-Type:Authentication-Results;
+	bh=1r56XHuUaOY/je8G6Epyg9wxHrNDGAiSFIwuiTrtqrc=;
+	b=KsHkFtWtXZ0b3aM/P6b4fCMas6mkEyvGovk5/JOJ41zOJig1t1/u0atm0xXB9zxo
+	CJ2IiP6Tyxj+DLxR/tAMPeMSAff6Sr7rdn1SE8ic7osG1Av8FEA+NPK63kbyIMDb
+	576spXKfn8n1bKyEysgOAn9uuK2GTcjxYzTt3U6I33g=;
+X-Original-To: ughelli.powerplc@facebook.com
+Authentication-Results: smtpin.mx.facebook.com; spf=neutral smtp.mailfrom=yahoo.co.uk
+Received-SPF: neutral (smtpin.mx.facebook.com: 72.30.239.16 is neither permitted nor denied by domain of yahoo.co.uk)
+Authentication-Results: smtpin.mx.facebook.com; dkim=pass header.d=yahoo.com
+Received: from [72.30.239.16] ([72.30.239.16:54067] helo=nm38-vm0.bullet.mail.bf1.yahoo.com)
+	by 10.102.107.21 (envelope-from <loritagod@yahoo.co.uk>)
+	(ecelerity 2.2.3.50 r(45166/45167)) with ESMTPS (cipher=AES128-SHA) 
+	id F5/B9-23996-341D2D45; Wed, 04 Feb 2015 18:11:16 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1423102270; bh=1r56XHuUaOY/je8G6Epyg9wxHrNDGAiSFIwuiTrtqrc=; h=Date:From:Reply-To:Subject:From:Subject; b=Ff7YDkgM8Pk+d3sK7V2h6hIxEHWtU392/+WWGXWIR0e/vi2p5VsoZbkFaVKojIVcDQZWsjIY4dsciEttLWwDbV9gkVwoy//FQzH/yLbxYnYDkuJLQfwB3lJ6Kq+2BoozQUDLwtcCndhAIcxgOo5yKuk5MTGihX3DmaVdUh7PYSzwsyRhpzL021AegtEc8UMZcyEaJZ03YcBbQACOG0Wgjr6pz2P2SOdIbK+uxNfCj1jzYVWr1w8V4PGrYo4wZ0yXSEEiqyR0Kvj7hZXb1TWEk5cnkg/t3XV6WsqkaPM8Za7T9QU6wXXGo4wdIw8yDM/pPlLKXrEXRz9crsfa2t6tuA==
+Received: from [98.139.215.142] by nm38.bullet.mail.bf1.yahoo.com with NNFMP; 05 Feb 2015 02:11:10 -0000
+Received: from [98.139.215.249] by tm13.bullet.mail.bf1.yahoo.com with NNFMP; 05 Feb 2015 02:11:10 -0000
+Received: from [127.0.0.1] by omp1062.mail.bf1.yahoo.com with NNFMP; 05 Feb 2015 02:11:10 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 544875.45455.bm@omp1062.mail.bf1.yahoo.com
+X-YMail-OSG: HVpnJ8EVM1kTB75OZQXZsX4EpJTuzAM065gFCma.LQBm813_crb4es1h1LeUhrp
+ j6fuTts7fxja2MzqI16czHiqrX8gEQrbIWUl546csQsgl2UPn350P5ctEgyCGTmLe4K.gL5TrhoI
+ K8627mhW_IewfMJ5MUhc.Th44WGCXKuCuJ4Z4CPahlHIOGIX2ivziAeo0kF3tMK.0EgRfPf5JV7l
+ Pei9FHEGJZxfRNd0Q.7kVZfKgJ231X.kAd9dslRbGt2_UBVvW3fNyfcQ58cR9oiui_9QPCE4XJnD
+ J05P9I46Oiz.FY8vVMs5cU4Yz7xcee0kWXze5Fv5F3GGj4VRCzmMXHKGLItWBa2SxQyqPIyL1Rhn
+ WF_iDxnbSG6DdgWlrHQArSf5aPkl.3NQGnT3olPwWrb6CMh7KsygFEVy5rsZJkh.ec8yKFGiBbuF
+ po2H_qbAfOPU5Ps2uz.H7rgWOzpkSdYrrsdj8RorSSSn.zqMht1AQ9aOeOTFH
+Received: by 217.12.9.11; Thu, 05 Feb 2015 02:10:59 +0000 
+Date: Thu, 5 Feb 2015 02:10:58 +0000 (UTC)
+From: Lorita Lorita <loritalorita22@hotmail.com>
+Reply-To: Lorita Lorita <loritalorita22@hotmail.com>
+Message-ID: <1515106265.2574327.1423102259184.JavaMail.yahoo@mail.yahoo.com>
+Subject:   HELLO
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_2574326_411652158.1423102259182"
+Content-Length: 974
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+------=_Part_2574326_411652158.1423102259182
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0
+My name is Miss Lorita i have something special i want to discus with you p=
+lease Reply me directly to my email ok
+
+
+------=_Part_2574326_411652158.1423102259182
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><body><div style="color:#000; background-color:#fff; font-family:Helvetica Neue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, Lucida Grande, Sans-Serif;font-size:16px"><div id="yui_3_16_0_1_1423099674353_52452"><span></span></div><div id="yui_3_16_0_1_1423099674353_52451">&nbsp;</div><div id="yui_3_16_0_1_1423099674353_52450"><div id="yui_3_16_0_1_1423099674353_52449">
+<br>My name is Miss Lorita i have something special i want to discus with you please Reply me directly to my email ok
+<br>
+<br></div></div></div></body></html>
+------=_Part_2574326_411652158.1423102259182--

@@ -1,0 +1,84 @@
+Return-path: <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>
+Envelope-to: info@ughellipower.com
+Delivery-date: Mon, 09 Feb 2015 08:42:02 -0700
+Received: from [69.171.244.41] (port=19352 helo=smtpin.mx.facebook.com)
+	by box899.bluehost.com with esmtp (Exim 4.82)
+	(envelope-from <forward+AaW5mb0B1Z2hlbGxpcG93ZXIuY29t@fwd.facebook.com>)
+	id 1YKqTJ-0001dm-Pm
+	for info@ughellipower.com; Mon, 09 Feb 2015 08:42:01 -0700
+DKIM-Signature: v=1; a=rsa-sha256; d=fwd.facebook.com; s=s1024-2014-q3; c=relaxed/simple;
+	q=dns/txt; i=@fwd.facebook.com; t=1423496519;
+	h=From:Subject:X-:Date:To:MIME-Version:Content-Type:Authentication-Results;
+	bh=u9YDRdX3ZyXT6E5PNtrgQSbUDJlma4ynM/xcCXOx8ew=;
+	b=JOYLZlcIsNC2RMZNCOLwYizpR6eRN2CaMoIrfH6BdI7DV/uoZ45zXNmeNJgbMeOg
+	9aZu45vizp/zMEvksJWvem14IL+qO1cBr1DBOPxRkWQ5eGO1v7uuzCnYMVG4j73y
+	h9QyojQ+Jz6E5hfc/WkZJ0bAq4CseLcxy8EyGWRIbis=;
+X-Original-To: ughelli.powerplc@facebook.com
+Authentication-Results: smtpin.mx.facebook.com; spf=neutral smtp.mailfrom=ymail.com
+Received-SPF: neutral (smtpin.mx.facebook.com: 98.138.91.225 is neither permitted nor denied by domain of ymail.com)
+Authentication-Results: smtpin.mx.facebook.com; dkim=fail header.d=yahoo.com
+Received: from [98.138.91.225] ([98.138.91.225:40535] helo=nm3-vm5.bullet.mail.ne1.yahoo.com)
+	by 10.224.57.35 (envelope-from <soniakassala22@ymail.com>)
+	(ecelerity 2.2.3.50 r(45166/45167)) with ESMTPS (cipher=AES128-SHA) 
+	id D3/28-59565-645D8D45; Mon, 09 Feb 2015 07:41:58 -0800
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1423496514; bh=u9YDRdX3ZyXT6E5PNtrgQSbUDJlma4ynM/xcCXOx8ew=; h=Date:From:Reply-To:Subject:From:Subject; b=i3Qhu/AGhKbg89F7v/p1S74oJCTQf05EWIHE81aKdaLpmQJpF1DzbAfLmT4mpjIIU7YsseYr48FT7Q+G//rWA5n6SxTZQC9N5Bm07BexuAw0bl6AN5arMsmcWpyVL2YL2wliE9KXYxqGLTHF5gyijwAzD3MMg11NhHmeO6CrbopzqKuPbgr6L6fqsC43YJqE6IrFE516KfFkMKDg4tzNBV6MgTseDrNDqyZhyqKCxHthBdwtxn9HCMQEAABmFPf6WjVNo6RlzUp6dx8CTvxeiuhm9C4EitMqZg6erWZn4MXOEZiNxs4stT0PdtO97xKClwawRTdH2So9EBKFiF8Nyw==
+Received: from [98.138.100.102] by nm3.bullet.mail.ne1.yahoo.com with NNFMP; 09 Feb 2015 15:41:54 -0000
+Received: from [98.138.89.234] by tm101.bullet.mail.ne1.yahoo.com with NNFMP; 09 Feb 2015 15:41:54 -0000
+Received: from [127.0.0.1] by omp1049.mail.ne1.yahoo.com with NNFMP; 09 Feb 2015 15:41:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 355537.3483.bm@omp1049.mail.ne1.yahoo.com
+X-YMail-OSG: mmoFkdQVM1nNFtbWrhQL4x7tfPJlsPRoUf2Lc7Ygg9OZaj6SSeP0aGDVxnR13PM
+ EXY_HsPUaT4hSakG9Til6SL5mSvhX1IyJWPkHg60idjm81qhDfI8mMbJvXP8UwQvyPD9f0pHih99
+ Er7gCcjMqp6_2tpW_MC32D37.pxcO8zmNvbMBD3fBJBqkT5jTS0csa8u2K547okiN_cEvn1ZYTXk
+ mGjRwCVAsDGIGjVQLkRSUvUZCHiYOuy1P8e9Th.pApT51kfo6IHvl0PzAesmyf4VNLUs3rOJgofL
+ sHWIIGQ4_2Z9yLRWWJ3kK7BUkHiZbN61fbCFnjuFE7J3Wr4opSP7u7mCDFLr4oX653dNNcfUUnhc
+ 6OpGF12v3O_uDCG5zi9Zpq7_9VrNXKpW4_6IG.zvfwDmVSaBg3UKmRjwGcxXnSfZjH6gyyp8oabU
+ ZvdVak9bJNDSkQMWrx0Db4e.3dCbMUfi0e5sH3iBucsdwifxoq7LO1pcGdN2oqmP8A5iUiY2k9A--
+Received: by 98.138.105.212; Mon, 09 Feb 2015 15:41:53 +0000 
+Date: Mon, 9 Feb 2015 15:41:53 +0000 (UTC)
+From: Miriam Willson <mirimwillson@hotmail.com>
+Reply-To: Miriam Willson <mirimwillson@hotmail.com>
+Message-ID: <684321290.1213214.1423496513348.JavaMail.yahoo@mail.yahoo.com>
+Subject: Hello,
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1213213_2054018826.1423496513344"
+Content-Length: 2281
+X-Identified-User: {0000:box899.bluehost.com:local:local} {sentby:Delivered locally}
+
+------=_Part_1213213_2054018826.1423496513344
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0Hello,I'm Miriam, I saw your profile here and decided to contact you,=
+=C2=A0am here seeking for a true relationship with you. So please contact m=
+efor more introduction.thank,Miriam
+------=_Part_1213213_2054018826.1423496513344
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue-Light, Helvetica Neue Light, Helvetica Neue, Helvetica, Arial, =
+Lucida Grande, sans-serif;font-size:16px"><div id=3D"yui_3_16_0_1_142349525=
+9677_26023"><span></span></div><div id=3D"yui_3_16_0_1_1423495259677_26024"=
+>&nbsp;</div><div id=3D"yui_3_16_0_1_1423495259677_26025" class=3D"signatur=
+e"><div id=3D"yui_3_16_0_1_1420287277009_2503" class=3D"" style=3D"margin:0=
+.1em 0px;padding:0px;font-family:HelveticaNeue, 'Helvetica Neue', Helvetica=
+, Arial, 'Lucida Grande', sans-serif;">Hello,</div><div id=3D"yui_3_16_0_1_=
+1420287277009_2503" class=3D"" style=3D"margin:0.1em 0px;padding:0px;font-f=
+amily:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', s=
+ans-serif;">I'm Miriam, I saw your profile here and decided to contact you,=
+&nbsp;</div><div id=3D"yui_3_16_0_1_1420287277009_2503" class=3D"" style=3D=
+"margin:0.1em 0px;padding:0px;font-family:HelveticaNeue, 'Helvetica Neue', =
+Helvetica, Arial, 'Lucida Grande', sans-serif;">am here seeking for a true =
+relationship with you. So please contact me</div><div id=3D"yui_3_16_0_1_14=
+20287277009_2503" class=3D"" style=3D"margin:0.1em 0px;padding:0px;font-fam=
+ily:HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', san=
+s-serif;">for more introduction.</div><div id=3D"yui_3_16_0_1_1420287277009=
+_2503" class=3D"" style=3D"margin:0.1em 0px;padding:0px;font-family:Helveti=
+caNeue, 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">t=
+hank,</div><div id=3D"yui_3_16_0_1_1420287277009_2503" class=3D"" style=3D"=
+margin:0.1em 0px;padding:0px;font-family:HelveticaNeue, 'Helvetica Neue', H=
+elvetica, Arial, 'Lucida Grande', sans-serif;">Miriam</div></div></div></bo=
+dy></html>
+------=_Part_1213213_2054018826.1423496513344--

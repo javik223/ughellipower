@@ -4,9 +4,9 @@ $active_group = 'expressionengine';
 $active_record = TRUE;
 
 $db['expressionengine']['hostname'] = 'localhost';
-$db['expressionengine']['username'] = 'ughellip_phcn';
-$db['expressionengine']['password'] = 'pyZ8xQbt';
-$db['expressionengine']['database'] = 'ughellip_phcn';
+$db['expressionengine']['username'] = 'root';
+$db['expressionengine']['password'] = 'root';
+$db['expressionengine']['database'] = 'ughelli_phcn';
 $db['expressionengine']['dbdriver'] = 'mysql';
 $db['expressionengine']['pconnect'] = FALSE;
 $db['expressionengine']['dbprefix'] = 'exp_';

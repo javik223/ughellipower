@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<meta charset="utf-8" />
+	<title>Wygwam Docs - Using the `wygwam_config` Hook</title>
+	<meta name="author" content="Pixel &amp; Tonic, Inc." />
+	<meta name="viewport" content="width=1000" />
+	<link rel="stylesheet" type="text/css" href="../../Shared/Styles/docs.css" />
+</head>
+
+<body class="page">
+<div id="page">
+
+	<h1>Using the <code>wygwam_config</code> Hook</h1>
+
+	<p>Wygwam 2.0.1 added its own extension hook called “<code>wygwam_config</code>”. This hook will enable you to override your Wygwam fields’ <a href="http://dereferer.ws/?http://docs.cksource.com/ckeditor_api/symbols/CKEDITOR.config.html">CKEditor config settings</a> right on page load, taking your Wygwam customizations to a whole new level.</p>
+
+	<p>If you’ve never written an ExpressionEngine extension before, you can learn how within the Docs for EE1 and EE2.</p>
+
+	<p>We’ve written a sample extension called “<a href="http://dereferer.ws/?http://github.com/brandonkelly/wygwam_upload_tags">Wygwam Upload Tags</a>”, which will parse your Upload Directory’s Server Path and URL settings for <code>{screen_name}</code>, <code>{member_id}</code>, and <code>{group_id}</code> tags.</p>
+
+	<h3>Hook Parameters</h3>
+	<dl>
+	<dt><code>$config</code></dt>
+	<dd>The array of config settings that are about to be JSON-ified and sent to CKEditor during field initialization.</dd>
+	<dt><code>$settings</code></dt>
+	<dd>The full array of your field’s settings, as they were before being translated into the <code>$config</code> array.</dd>
+	</dl>
+
+	<h3>Return Data?</h3>
+	<p>Yes – your extension should return the <code>$config</code> array, whether or not you’ve modified it in any way.</p>
+
+	<h3>Appearance of Hook in the Code</h3>
+	<h4><kbd>ft.wygwam.ee1.php</kbd> (EE1)</h4>
+	<pre><code>if ($EXT->active_hook('wygwam_config'))
+{
+    $config = $EXT->call_extension('wygwam_config', $config, $settings);
+}</code></pre>
+
+	<h4><kbd>ft.wygwam.ee2.php</kbd> (EE2)</h4>
+	<pre><code>if ($this->EE->extensions->active_hook('wygwam_config'))
+{
+    $config = $this->EE->extensions->call('wygwam_config', $config, $all_settings);
+}</code></pre>
+
+</div>
+</body>
+</html>

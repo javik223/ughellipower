@@ -1,0 +1,1 @@
+[19-Apr-2013 08:24:40] PHP Fatal error:  Call to a member function get_upload_preferences() on a non-object in /home4/ughellip/public_html/phcn-admin/expressionengine/third_party/matrix/celltypes/file.php on line 120
